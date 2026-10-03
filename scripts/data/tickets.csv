@@ -1,0 +1,1201 @@
+text,category,priority
+add new sku to inventory for DB8074 plz check,INVENTORY_ADD,P5
+beat reassignment request for distributor DB9154 urgent,BEAT_CHANGE,P3
+"beat plan missing on map, SO972 cannot start day asap",PJP_MAP,P1
+need login created for sales officer joining B41 pls help,USER_CREATION,P2
+"beat plan missing on map, SO521 cannot start day urgent",PJP_MAP,P1
+add new sku to inventory for DB4010 plz check,INVENTORY_ADD,P5
+new user creation request for DB8668 kindly do needful,USER_CREATION,P2
+SCHEME MAIL NOT RECEIVED FOR THIS MONTH THANKS,SCHEME_MAIL,P4
+NEED LOGIN CREATED FOR SALES OFFICER JOINING B31 SAME ISSUE SINCE YESTERDAY,USER_CREATION,P2
+beat reassignment request for distributor DB1094 plz check,BEAT_CHANGE,P3
+change beat for outlet in B5 same issue since yesterday,BEAT_CHANGE,P3
+"beat plan missing on map, SO371 cannot start day asap",PJP_MAP,P1
+pjp map not showing for beat B48 asap,PJP_MAP,P1
+beat modification required for SO850 pls help,BEAT_CHANGE,P3
+"GRN NOT PROCESSING, DISTRIBUTOR DB6727 UNABLE TO RECEIVE STOCK THANKS",GRN_STUCK,P1
+"goods receipt pending, stock not updating for DB4626 pls help",GRN_STUCK,P1
+"UNABLE TO LOGIN IN APP, INVALID CREDENTIALS ERROR PLS HELP",LOGIN_ISSUE,P2
+change beat for outlet in B35 asap,BEAT_CHANGE,P3
+beat reassignment request for distributor DB5421 kindly do needful,BEAT_CHANGE,P3
+"user id not created yet for SO241, pending 2 days urgent",USER_CREATION,P2
+new user creation request for DB7525 asap,USER_CREATION,P2
+SHOP NOT APPEARING IN APP EVEN AFTER SYNC SAME ISSUE SINCE YESTERDAY,OUTLET_NOT_VISIBLE,P2
+new outlet created but not showing in beat B34 plz check,OUTLET_NOT_VISIBLE,P2
+"user id not created yet for SO836, pending 2 days thanks",USER_CREATION,P2
+pjp map not showing for beat B47 urgent,PJP_MAP,P1
+GRN stuck for invoice INV68979 since morning plz check,GRN_STUCK,P1
+outlet not visible in SO764 app after creation asap,OUTLET_NOT_VISIBLE,P2
+"SO443 cannot login, otp not received same issue since yesterday",LOGIN_ISSUE,P2
+new user creation request for DB4555 kindly do needful,USER_CREATION,P2
+"unable to login in app, invalid credentials error pls help",LOGIN_ISSUE,P2
+need login created for sales officer joining B56 thanks,USER_CREATION,P2
+change beat for outlet in B53 plz check,BEAT_CHANGE,P3
+OUTLET NOT VISIBLE IN SO587 APP AFTER CREATION PLS HELP,OUTLET_NOT_VISIBLE,P2
+OUTLET NOT VISIBLE IN SO630 APP AFTER CREATION,OUTLET_NOT_VISIBLE,P2
+need login created for sales officer joining B33 plz check,USER_CREATION,P2
+"unable to login in app, invalid credentials error urgent",LOGIN_ISSUE,P2
+"user id not created yet for SO271, pending 2 days",USER_CREATION,P2
+"beat plan missing on map, SO552 cannot start day kindly do needful",PJP_MAP,P1
+"USER ID NOT CREATED YET FOR SO607, PENDING 2 DAYS",USER_CREATION,P2
+outlet not visible in SO863 app after creation same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+please add stock of new product in DMS plz check,INVENTORY_ADD,P5
+"beat plan missing on map, SO666 cannot start day thanks",PJP_MAP,P1
+OPENING STOCK ENTRY NEEDED FOR DB4865 KINDLY DO NEEDFUL,INVENTORY_ADD,P5
+"user id not created yet for SO642, pending 2 days kindly do needful",USER_CREATION,P2
+scheme not applied on invoice INV14959 thanks,SCHEME_MAIL,P4
+"USER ID NOT CREATED YET FOR SO182, PENDING 2 DAYS SAME ISSUE SINCE YESTERDAY",USER_CREATION,P2
+new user creation request for DB3365,USER_CREATION,P2
+pjp map not showing for beat B60,PJP_MAP,P1
+pjp mapping issue - outlets not loading on route asap,PJP_MAP,P1
+"GRN failed in DMS, invoice INV71487 still open plz check",GRN_STUCK,P1
+outlets missing from route for distributor DB6903 asap,OUTLET_NOT_VISIBLE,P2
+opening stock entry needed for DB5198 pls help,INVENTORY_ADD,P5
+need login created for sales officer joining B11 urgent,USER_CREATION,P2
+"goods receipt pending, stock not updating for DB2476 same issue since yesterday",GRN_STUCK,P1
+opening stock entry needed for DB5186 pls help,INVENTORY_ADD,P5
+"user id not created yet for SO720, pending 2 days plz check",USER_CREATION,P2
+scheme not applied on invoice INV93623 urgent,SCHEME_MAIL,P4
+OPENING STOCK ENTRY NEEDED FOR DB2435 URGENT,INVENTORY_ADD,P5
+scheme mail not received for this month,SCHEME_MAIL,P4
+"user id not created yet for SO903, pending 2 days pls help",USER_CREATION,P2
+need login created for sales officer joining B35 plz check,USER_CREATION,P2
+"goods receipt pending, stock not updating for DB1153 asap",GRN_STUCK,P1
+"GRN failed in DMS, invoice INV47947 still open pls help",GRN_STUCK,P1
+"beat plan missing on map, SO597 cannot start day same issue since yesterday",PJP_MAP,P1
+"GRN failed in DMS, invoice INV86619 still open thanks",GRN_STUCK,P1
+scheme mail not received for this month urgent,SCHEME_MAIL,P4
+PJP MAP NOT SHOWING FOR BEAT B6,PJP_MAP,P1
+new user creation request for DB6277 thanks,USER_CREATION,P2
+login failing after app update pls help,LOGIN_ISSUE,P2
+LOGIN FAILING AFTER APP UPDATE SAME ISSUE SINCE YESTERDAY,LOGIN_ISSUE,P2
+"USER ID NOT CREATED YET FOR SO154, PENDING 2 DAYS PLZ CHECK",USER_CREATION,P2
+"beat plan missing on map, SO815 cannot start day",PJP_MAP,P1
+add new sku to inventory for DB8968 same issue since yesterday,INVENTORY_ADD,P5
+PJP not visible in app for user SO230 same issue since yesterday,PJP_MAP,P1
+pjp mapping issue - outlets not loading on route asap,PJP_MAP,P1
+need login created for sales officer joining B50,USER_CREATION,P2
+"GRN failed in DMS, invoice INV77271 still open pls help",GRN_STUCK,P1
+"beat plan missing on map, SO673 cannot start day urgent",PJP_MAP,P1
+scheme mail not received for this month urgent,SCHEME_MAIL,P4
+please shift outlets from B6 to new beat urgent,BEAT_CHANGE,P3
+please add stock of new product in DMS asap,INVENTORY_ADD,P5
+GRN stuck for invoice INV46002 since morning,GRN_STUCK,P1
+change beat for outlet in B13 asap,BEAT_CHANGE,P3
+PJP not visible in app for user SO989,PJP_MAP,P1
+"unable to login in app, invalid credentials error plz check",LOGIN_ISSUE,P2
+discount scheme missing in app for B17,SCHEME_MAIL,P4
+PLEASE ADD STOCK OF NEW PRODUCT IN DMS URGENT,INVENTORY_ADD,P5
+"grn not processing, distributor DB2622 unable to receive stock thanks",GRN_STUCK,P1
+please share scheme details for DB3409 plz check,SCHEME_MAIL,P4
+OUTLETS MISSING FROM ROUTE FOR DISTRIBUTOR DB1750 PLZ CHECK,OUTLET_NOT_VISIBLE,P2
+login failing after app update plz check,LOGIN_ISSUE,P2
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO659 PLS HELP,LOGIN_ISSUE,P2
+GRN stuck for invoice INV67619 since morning thanks,GRN_STUCK,P1
+new user creation request for DB7375 same issue since yesterday,USER_CREATION,P2
+PLEASE SHARE SCHEME DETAILS FOR DB2075 PLZ CHECK,SCHEME_MAIL,P4
+new outlet created but not showing in beat B59 plz check,OUTLET_NOT_VISIBLE,P2
+"unable to login in app, invalid credentials error thanks",LOGIN_ISSUE,P2
+scheme mail not received for this month asap,SCHEME_MAIL,P4
+"goods receipt pending, stock not updating for DB2475 plz check",GRN_STUCK,P1
+PJP NOT VISIBLE IN APP FOR USER SO252 PLS HELP,PJP_MAP,P1
+login failing after app update plz check,LOGIN_ISSUE,P2
+PJP not visible in app for user SO171 same issue since yesterday,PJP_MAP,P1
+outlets missing from route for distributor DB1781 pls help,OUTLET_NOT_VISIBLE,P2
+pjp map not showing for beat B9 urgent,PJP_MAP,P1
+BEAT REASSIGNMENT REQUEST FOR DISTRIBUTOR DB9579 SAME ISSUE SINCE YESTERDAY,BEAT_CHANGE,P3
+outlets missing from route for distributor DB9363 plz check,OUTLET_NOT_VISIBLE,P2
+INVENTORY ADDITION REQUEST FOR DISTRIBUTOR DB2860 KINDLY DO NEEDFUL,INVENTORY_ADD,P5
+SCHEME MAIL NOT RECEIVED FOR THIS MONTH ASAP,SCHEME_MAIL,P4
+add new sku to inventory for DB8583 urgent,INVENTORY_ADD,P5
+please share scheme details for DB5466 asap,SCHEME_MAIL,P4
+"USER ID NOT CREATED YET FOR SO117, PENDING 2 DAYS ASAP",USER_CREATION,P2
+PLEASE SHIFT OUTLETS FROM B40 TO NEW BEAT,BEAT_CHANGE,P3
+"grn not processing, distributor DB6661 unable to receive stock asap",GRN_STUCK,P1
+scheme not applied on invoice INV85196,SCHEME_MAIL,P4
+new outlet created but not showing in beat B7 thanks,OUTLET_NOT_VISIBLE,P2
+scheme not applied on invoice INV26276 asap,SCHEME_MAIL,P4
+GRN STUCK FOR INVOICE INV29597 SINCE MORNING THANKS,GRN_STUCK,P1
+"GRN failed in DMS, invoice INV84963 still open same issue since yesterday",GRN_STUCK,P1
+OUTLET NOT VISIBLE IN SO270 APP AFTER CREATION PLS HELP,OUTLET_NOT_VISIBLE,P2
+"goods receipt pending, stock not updating for DB8770 pls help",GRN_STUCK,P1
+login failing after app update,LOGIN_ISSUE,P2
+SCHEME MAIL NOT RECEIVED FOR THIS MONTH THANKS,SCHEME_MAIL,P4
+please share scheme details for DB2860 plz check,SCHEME_MAIL,P4
+opening stock entry needed for DB7958 asap,INVENTORY_ADD,P5
+new user creation request for DB4996 urgent,USER_CREATION,P2
+PLEASE ADD STOCK OF NEW PRODUCT IN DMS PLZ CHECK,INVENTORY_ADD,P5
+PLEASE CREATE USER ID FOR NEW SO SO243 KINDLY DO NEEDFUL,USER_CREATION,P2
+PJP not visible in app for user SO631 urgent,PJP_MAP,P1
+outlets missing from route for distributor DB9680 kindly do needful,OUTLET_NOT_VISIBLE,P2
+outlet not visible in SO933 app after creation kindly do needful,OUTLET_NOT_VISIBLE,P2
+"grn not processing, distributor DB9094 unable to receive stock same issue since yesterday",GRN_STUCK,P1
+inventory addition request for distributor DB9618 urgent,INVENTORY_ADD,P5
+"user id not created yet for SO485, pending 2 days plz check",USER_CREATION,P2
+"grn not processing, distributor DB1715 unable to receive stock same issue since yesterday",GRN_STUCK,P1
+discount scheme missing in app for B27 kindly do needful,SCHEME_MAIL,P4
+new outlet created but not showing in beat B18 plz check,OUTLET_NOT_VISIBLE,P2
+outlet not visible in SO362 app after creation,OUTLET_NOT_VISIBLE,P2
+app showing session expired again and again for SO477 asap,LOGIN_ISSUE,P2
+"unable to login in app, invalid credentials error",LOGIN_ISSUE,P2
+PLEASE SHARE SCHEME DETAILS FOR DB1447 PLZ CHECK,SCHEME_MAIL,P4
+opening stock entry needed for DB9728 thanks,INVENTORY_ADD,P5
+outlets missing from route for distributor DB7839 asap,OUTLET_NOT_VISIBLE,P2
+need login created for sales officer joining B17 kindly do needful,USER_CREATION,P2
+OUTLETS MISSING FROM ROUTE FOR DISTRIBUTOR DB3131 ASAP,OUTLET_NOT_VISIBLE,P2
+change beat for outlet in B13 kindly do needful,BEAT_CHANGE,P3
+app showing session expired again and again for SO291 asap,LOGIN_ISSUE,P2
+new outlet created but not showing in beat B44 thanks,OUTLET_NOT_VISIBLE,P2
+outlets missing from route for distributor DB8583 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+"SO466 cannot login, otp not received asap",LOGIN_ISSUE,P2
+"unable to login in app, invalid credentials error pls help",LOGIN_ISSUE,P2
+please add stock of new product in DMS,INVENTORY_ADD,P5
+need login created for sales officer joining B48 asap,USER_CREATION,P2
+new outlet created but not showing in beat B25 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+GRN stuck for invoice INV20205 since morning same issue since yesterday,GRN_STUCK,P1
+discount scheme missing in app for B20 thanks,SCHEME_MAIL,P4
+please create user id for new SO SO931 same issue since yesterday,USER_CREATION,P2
+"user id not created yet for SO557, pending 2 days asap",USER_CREATION,P2
+"GRN failed in DMS, invoice INV81496 still open asap",GRN_STUCK,P1
+inventory addition request for distributor DB3625 same issue since yesterday,INVENTORY_ADD,P5
+"user id not created yet for SO522, pending 2 days plz check",USER_CREATION,P2
+please add stock of new product in DMS pls help,INVENTORY_ADD,P5
+please share scheme details for DB1232 urgent,SCHEME_MAIL,P4
+DISCOUNT SCHEME MISSING IN APP FOR B40 SAME ISSUE SINCE YESTERDAY,SCHEME_MAIL,P4
+"goods receipt pending, stock not updating for DB4279 urgent",GRN_STUCK,P1
+"goods receipt pending, stock not updating for DB7850 urgent",GRN_STUCK,P1
+please shift outlets from B13 to new beat,BEAT_CHANGE,P3
+PJP not visible in app for user SO813 pls help,PJP_MAP,P1
+change beat for outlet in B40 kindly do needful,BEAT_CHANGE,P3
+beat modification required for SO815,BEAT_CHANGE,P3
+pjp mapping issue - outlets not loading on route pls help,PJP_MAP,P1
+BEAT REASSIGNMENT REQUEST FOR DISTRIBUTOR DB4814 URGENT,BEAT_CHANGE,P3
+discount scheme missing in app for B8 same issue since yesterday,SCHEME_MAIL,P4
+please create user id for new SO SO887 kindly do needful,USER_CREATION,P2
+"goods receipt pending, stock not updating for DB3363 thanks",GRN_STUCK,P1
+"goods receipt pending, stock not updating for DB6751 urgent",GRN_STUCK,P1
+login failing after app update thanks,LOGIN_ISSUE,P2
+"GRN FAILED IN DMS, INVOICE INV94109 STILL OPEN",GRN_STUCK,P1
+opening stock entry needed for DB4531 kindly do needful,INVENTORY_ADD,P5
+pjp map not showing for beat B6 plz check,PJP_MAP,P1
+beat reassignment request for distributor DB1955 asap,BEAT_CHANGE,P3
+outlets missing from route for distributor DB5501 urgent,OUTLET_NOT_VISIBLE,P2
+please shift outlets from B57 to new beat asap,BEAT_CHANGE,P3
+"GRN FAILED IN DMS, INVOICE INV75570 STILL OPEN SAME ISSUE SINCE YESTERDAY",GRN_STUCK,P1
+discount scheme missing in app for B5 plz check,SCHEME_MAIL,P4
+"grn not processing, distributor DB5728 unable to receive stock thanks",GRN_STUCK,P1
+discount scheme missing in app for B12 plz check,SCHEME_MAIL,P4
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO272 PLZ CHECK,LOGIN_ISSUE,P2
+beat modification required for SO234 asap,BEAT_CHANGE,P3
+"user id not created yet for SO860, pending 2 days pls help",USER_CREATION,P2
+"SO342 cannot login, otp not received",LOGIN_ISSUE,P2
+beat modification required for SO241 urgent,BEAT_CHANGE,P3
+new outlet created but not showing in beat B58 thanks,OUTLET_NOT_VISIBLE,P2
+pjp map not showing for beat B39 kindly do needful,PJP_MAP,P1
+beat modification required for SO523,BEAT_CHANGE,P3
+"unable to login in app, invalid credentials error",LOGIN_ISSUE,P2
+GRN stuck for invoice INV13794 since morning urgent,GRN_STUCK,P1
+pjp map not showing for beat B25 kindly do needful,PJP_MAP,P1
+scheme not applied on invoice INV61115 plz check,SCHEME_MAIL,P4
+discount scheme missing in app for B55 plz check,SCHEME_MAIL,P4
+"GOODS RECEIPT PENDING, STOCK NOT UPDATING FOR DB3126 PLS HELP",GRN_STUCK,P1
+change beat for outlet in B36 thanks,BEAT_CHANGE,P3
+please share scheme details for DB5989 same issue since yesterday,SCHEME_MAIL,P4
+shop not appearing in app even after sync kindly do needful,OUTLET_NOT_VISIBLE,P2
+scheme mail not received for this month thanks,SCHEME_MAIL,P4
+beat modification required for SO305 asap,BEAT_CHANGE,P3
+"goods receipt pending, stock not updating for DB2479 thanks",GRN_STUCK,P1
+CHANGE BEAT FOR OUTLET IN B54 PLS HELP,BEAT_CHANGE,P3
+outlet not visible in SO192 app after creation same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+outlets missing from route for distributor DB9294 pls help,OUTLET_NOT_VISIBLE,P2
+please add stock of new product in DMS,INVENTORY_ADD,P5
+add new sku to inventory for DB6533 pls help,INVENTORY_ADD,P5
+beat modification required for SO494 kindly do needful,BEAT_CHANGE,P3
+new user creation request for DB8080,USER_CREATION,P2
+change beat for outlet in B21 plz check,BEAT_CHANGE,P3
+DISCOUNT SCHEME MISSING IN APP FOR B31 THANKS,SCHEME_MAIL,P4
+"GRN failed in DMS, invoice INV40932 still open same issue since yesterday",GRN_STUCK,P1
+shop not appearing in app even after sync,OUTLET_NOT_VISIBLE,P2
+"grn not processing, distributor DB5772 unable to receive stock",GRN_STUCK,P1
+new outlet created but not showing in beat B11 kindly do needful,OUTLET_NOT_VISIBLE,P2
+login failing after app update,LOGIN_ISSUE,P2
+ADD NEW SKU TO INVENTORY FOR DB8715,INVENTORY_ADD,P5
+discount scheme missing in app for B21 same issue since yesterday,SCHEME_MAIL,P4
+scheme not applied on invoice INV52003 same issue since yesterday,SCHEME_MAIL,P4
+discount scheme missing in app for B4 plz check,SCHEME_MAIL,P4
+"GRN FAILED IN DMS, INVOICE INV24089 STILL OPEN THANKS",GRN_STUCK,P1
+login failing after app update asap,LOGIN_ISSUE,P2
+beat modification required for SO341,BEAT_CHANGE,P3
+PJP not visible in app for user SO530,PJP_MAP,P1
+GRN stuck for invoice INV79013 since morning,GRN_STUCK,P1
+shop not appearing in app even after sync urgent,OUTLET_NOT_VISIBLE,P2
+new user creation request for DB2341 plz check,USER_CREATION,P2
+pjp mapping issue - outlets not loading on route plz check,PJP_MAP,P1
+DISCOUNT SCHEME MISSING IN APP FOR B48 KINDLY DO NEEDFUL,SCHEME_MAIL,P4
+OUTLETS MISSING FROM ROUTE FOR DISTRIBUTOR DB9335 PLZ CHECK,OUTLET_NOT_VISIBLE,P2
+discount scheme missing in app for B16 urgent,SCHEME_MAIL,P4
+NEW USER CREATION REQUEST FOR DB2284 SAME ISSUE SINCE YESTERDAY,USER_CREATION,P2
+change beat for outlet in B48 thanks,BEAT_CHANGE,P3
+app showing session expired again and again for SO524 pls help,LOGIN_ISSUE,P2
+opening stock entry needed for DB2817 pls help,INVENTORY_ADD,P5
+please shift outlets from B36 to new beat same issue since yesterday,BEAT_CHANGE,P3
+need login created for sales officer joining B24 urgent,USER_CREATION,P2
+"user id not created yet for SO402, pending 2 days pls help",USER_CREATION,P2
+PJP MAPPING ISSUE - OUTLETS NOT LOADING ON ROUTE PLZ CHECK,PJP_MAP,P1
+please shift outlets from B23 to new beat kindly do needful,BEAT_CHANGE,P3
+PJP not visible in app for user SO833 asap,PJP_MAP,P1
+"unable to login in app, invalid credentials error thanks",LOGIN_ISSUE,P2
+new outlet created but not showing in beat B49 urgent,OUTLET_NOT_VISIBLE,P2
+scheme mail not received for this month asap,SCHEME_MAIL,P4
+"beat plan missing on map, SO694 cannot start day pls help",PJP_MAP,P1
+"beat plan missing on map, SO102 cannot start day plz check",PJP_MAP,P1
+outlet not visible in SO219 app after creation thanks,OUTLET_NOT_VISIBLE,P2
+"user id not created yet for SO752, pending 2 days pls help",USER_CREATION,P2
+NEED LOGIN CREATED FOR SALES OFFICER JOINING B59 THANKS,USER_CREATION,P2
+pjp mapping issue - outlets not loading on route urgent,PJP_MAP,P1
+change beat for outlet in B7 asap,BEAT_CHANGE,P3
+SCHEME MAIL NOT RECEIVED FOR THIS MONTH,SCHEME_MAIL,P4
+"goods receipt pending, stock not updating for DB6543",GRN_STUCK,P1
+"SO675 cannot login, otp not received urgent",LOGIN_ISSUE,P2
+GRN stuck for invoice INV58623 since morning same issue since yesterday,GRN_STUCK,P1
+add new sku to inventory for DB5248 pls help,INVENTORY_ADD,P5
+login failing after app update same issue since yesterday,LOGIN_ISSUE,P2
+please create user id for new SO SO758 same issue since yesterday,USER_CREATION,P2
+discount scheme missing in app for B18 same issue since yesterday,SCHEME_MAIL,P4
+shop not appearing in app even after sync pls help,OUTLET_NOT_VISIBLE,P2
+shop not appearing in app even after sync pls help,OUTLET_NOT_VISIBLE,P2
+beat modification required for SO649 plz check,BEAT_CHANGE,P3
+"unable to login in app, invalid credentials error same issue since yesterday",LOGIN_ISSUE,P2
+"SO182 cannot login, otp not received urgent",LOGIN_ISSUE,P2
+discount scheme missing in app for B43 urgent,SCHEME_MAIL,P4
+login failing after app update same issue since yesterday,LOGIN_ISSUE,P2
+"unable to login in app, invalid credentials error kindly do needful",LOGIN_ISSUE,P2
+change beat for outlet in B22 asap,BEAT_CHANGE,P3
+new outlet created but not showing in beat B50 plz check,OUTLET_NOT_VISIBLE,P2
+beat reassignment request for distributor DB3253 kindly do needful,BEAT_CHANGE,P3
+"GRN FAILED IN DMS, INVOICE INV42495 STILL OPEN URGENT",GRN_STUCK,P1
+PJP MAP NOT SHOWING FOR BEAT B38 SAME ISSUE SINCE YESTERDAY,PJP_MAP,P1
+pjp mapping issue - outlets not loading on route plz check,PJP_MAP,P1
+GRN STUCK FOR INVOICE INV29142 SINCE MORNING URGENT,GRN_STUCK,P1
+new user creation request for DB5503 asap,USER_CREATION,P2
+PJP not visible in app for user SO262,PJP_MAP,P1
+opening stock entry needed for DB5702 urgent,INVENTORY_ADD,P5
+please shift outlets from B28 to new beat same issue since yesterday,BEAT_CHANGE,P3
+pjp mapping issue - outlets not loading on route urgent,PJP_MAP,P1
+change beat for outlet in B12 same issue since yesterday,BEAT_CHANGE,P3
+OUTLET NOT VISIBLE IN SO800 APP AFTER CREATION PLZ CHECK,OUTLET_NOT_VISIBLE,P2
+please share scheme details for DB7156,SCHEME_MAIL,P4
+shop not appearing in app even after sync urgent,OUTLET_NOT_VISIBLE,P2
+beat modification required for SO650 thanks,BEAT_CHANGE,P3
+change beat for outlet in B3,BEAT_CHANGE,P3
+add new sku to inventory for DB9161,INVENTORY_ADD,P5
+"user id not created yet for SO539, pending 2 days asap",USER_CREATION,P2
+OPENING STOCK ENTRY NEEDED FOR DB4298 THANKS,INVENTORY_ADD,P5
+need login created for sales officer joining B35 same issue since yesterday,USER_CREATION,P2
+opening stock entry needed for DB5342 urgent,INVENTORY_ADD,P5
+"beat plan missing on map, SO927 cannot start day plz check",PJP_MAP,P1
+beat reassignment request for distributor DB3539 pls help,BEAT_CHANGE,P3
+"SO302 cannot login, otp not received pls help",LOGIN_ISSUE,P2
+scheme mail not received for this month same issue since yesterday,SCHEME_MAIL,P4
+beat reassignment request for distributor DB9269 kindly do needful,BEAT_CHANGE,P3
+please add stock of new product in DMS same issue since yesterday,INVENTORY_ADD,P5
+please shift outlets from B30 to new beat,BEAT_CHANGE,P3
+scheme not applied on invoice INV84536,SCHEME_MAIL,P4
+"GRN failed in DMS, invoice INV50577 still open thanks",GRN_STUCK,P1
+add new sku to inventory for DB5382 pls help,INVENTORY_ADD,P5
+NEW OUTLET CREATED BUT NOT SHOWING IN BEAT B24 ASAP,OUTLET_NOT_VISIBLE,P2
+please shift outlets from B3 to new beat asap,BEAT_CHANGE,P3
+please share scheme details for DB8752 urgent,SCHEME_MAIL,P4
+pjp map not showing for beat B43 pls help,PJP_MAP,P1
+"beat plan missing on map, SO416 cannot start day thanks",PJP_MAP,P1
+change beat for outlet in B20 same issue since yesterday,BEAT_CHANGE,P3
+"goods receipt pending, stock not updating for DB8538 pls help",GRN_STUCK,P1
+pjp map not showing for beat B15 thanks,PJP_MAP,P1
+"UNABLE TO LOGIN IN APP, INVALID CREDENTIALS ERROR",LOGIN_ISSUE,P2
+add new sku to inventory for DB9411 thanks,INVENTORY_ADD,P5
+GRN STUCK FOR INVOICE INV72094 SINCE MORNING PLZ CHECK,GRN_STUCK,P1
+new user creation request for DB6620 kindly do needful,USER_CREATION,P2
+beat reassignment request for distributor DB3675 thanks,BEAT_CHANGE,P3
+opening stock entry needed for DB6356 asap,INVENTORY_ADD,P5
+shop not appearing in app even after sync pls help,OUTLET_NOT_VISIBLE,P2
+add new sku to inventory for DB3519 pls help,INVENTORY_ADD,P5
+shop not appearing in app even after sync plz check,OUTLET_NOT_VISIBLE,P2
+please share scheme details for DB1775 same issue since yesterday,SCHEME_MAIL,P4
+app showing session expired again and again for SO667 asap,LOGIN_ISSUE,P2
+app showing session expired again and again for SO955 thanks,LOGIN_ISSUE,P2
+please add stock of new product in DMS same issue since yesterday,INVENTORY_ADD,P5
+"unable to login in app, invalid credentials error thanks",LOGIN_ISSUE,P2
+outlets missing from route for distributor DB9171 kindly do needful,OUTLET_NOT_VISIBLE,P2
+"grn not processing, distributor DB9335 unable to receive stock pls help",GRN_STUCK,P1
+scheme not applied on invoice INV65864 same issue since yesterday,SCHEME_MAIL,P4
+"grn not processing, distributor DB3267 unable to receive stock",GRN_STUCK,P1
+new user creation request for DB6816,USER_CREATION,P2
+pjp map not showing for beat B14,PJP_MAP,P1
+pjp mapping issue - outlets not loading on route asap,PJP_MAP,P1
+new user creation request for DB9011 plz check,USER_CREATION,P2
+please add stock of new product in DMS thanks,INVENTORY_ADD,P5
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO334 PLS HELP,LOGIN_ISSUE,P2
+new outlet created but not showing in beat B56 kindly do needful,OUTLET_NOT_VISIBLE,P2
+"grn not processing, distributor DB3399 unable to receive stock kindly do needful",GRN_STUCK,P1
+add new sku to inventory for DB5056 asap,INVENTORY_ADD,P5
+PJP MAPPING ISSUE - OUTLETS NOT LOADING ON ROUTE SAME ISSUE SINCE YESTERDAY,PJP_MAP,P1
+opening stock entry needed for DB6080 urgent,INVENTORY_ADD,P5
+need login created for sales officer joining B25 same issue since yesterday,USER_CREATION,P2
+change beat for outlet in B58 pls help,BEAT_CHANGE,P3
+change beat for outlet in B40 kindly do needful,BEAT_CHANGE,P3
+outlet not visible in SO157 app after creation urgent,OUTLET_NOT_VISIBLE,P2
+"SO643 cannot login, otp not received urgent",LOGIN_ISSUE,P2
+shop not appearing in app even after sync urgent,OUTLET_NOT_VISIBLE,P2
+"SO162 cannot login, otp not received thanks",LOGIN_ISSUE,P2
+scheme mail not received for this month plz check,SCHEME_MAIL,P4
+"user id not created yet for SO900, pending 2 days thanks",USER_CREATION,P2
+"GRN failed in DMS, invoice INV47501 still open same issue since yesterday",GRN_STUCK,P1
+"goods receipt pending, stock not updating for DB3610 plz check",GRN_STUCK,P1
+pjp mapping issue - outlets not loading on route thanks,PJP_MAP,P1
+"USER ID NOT CREATED YET FOR SO622, PENDING 2 DAYS PLZ CHECK",USER_CREATION,P2
+"SO851 CANNOT LOGIN, OTP NOT RECEIVED URGENT",LOGIN_ISSUE,P2
+pjp mapping issue - outlets not loading on route,PJP_MAP,P1
+"user id not created yet for SO766, pending 2 days same issue since yesterday",USER_CREATION,P2
+pjp map not showing for beat B6 kindly do needful,PJP_MAP,P1
+BEAT MODIFICATION REQUIRED FOR SO138 URGENT,BEAT_CHANGE,P3
+pjp map not showing for beat B58 kindly do needful,PJP_MAP,P1
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO984 PLZ CHECK,LOGIN_ISSUE,P2
+"GOODS RECEIPT PENDING, STOCK NOT UPDATING FOR DB4630 URGENT",GRN_STUCK,P1
+PJP not visible in app for user SO176 thanks,PJP_MAP,P1
+discount scheme missing in app for B39 asap,SCHEME_MAIL,P4
+add new sku to inventory for DB7468 pls help,INVENTORY_ADD,P5
+opening stock entry needed for DB5489 plz check,INVENTORY_ADD,P5
+PJP NOT VISIBLE IN APP FOR USER SO417 URGENT,PJP_MAP,P1
+SCHEME NOT APPLIED ON INVOICE INV94604 PLZ CHECK,SCHEME_MAIL,P4
+SHOP NOT APPEARING IN APP EVEN AFTER SYNC PLS HELP,OUTLET_NOT_VISIBLE,P2
+shop not appearing in app even after sync plz check,OUTLET_NOT_VISIBLE,P2
+"SO685 cannot login, otp not received kindly do needful",LOGIN_ISSUE,P2
+opening stock entry needed for DB3560,INVENTORY_ADD,P5
+PLEASE SHARE SCHEME DETAILS FOR DB5932 SAME ISSUE SINCE YESTERDAY,SCHEME_MAIL,P4
+"UNABLE TO LOGIN IN APP, INVALID CREDENTIALS ERROR KINDLY DO NEEDFUL",LOGIN_ISSUE,P2
+app showing session expired again and again for SO323 thanks,LOGIN_ISSUE,P2
+new user creation request for DB9022 urgent,USER_CREATION,P2
+please share scheme details for DB9686 plz check,SCHEME_MAIL,P4
+please create user id for new SO SO445 kindly do needful,USER_CREATION,P2
+please share scheme details for DB1578 asap,SCHEME_MAIL,P4
+new user creation request for DB1860 thanks,USER_CREATION,P2
+beat reassignment request for distributor DB2974,BEAT_CHANGE,P3
+opening stock entry needed for DB8825 urgent,INVENTORY_ADD,P5
+"unable to login in app, invalid credentials error",LOGIN_ISSUE,P2
+beat reassignment request for distributor DB8680 same issue since yesterday,BEAT_CHANGE,P3
+outlets missing from route for distributor DB9409 asap,OUTLET_NOT_VISIBLE,P2
+discount scheme missing in app for B5 thanks,SCHEME_MAIL,P4
+pjp mapping issue - outlets not loading on route,PJP_MAP,P1
+outlets missing from route for distributor DB2747 pls help,OUTLET_NOT_VISIBLE,P2
+PJP not visible in app for user SO959 urgent,PJP_MAP,P1
+PLEASE SHIFT OUTLETS FROM B40 TO NEW BEAT URGENT,BEAT_CHANGE,P3
+outlet not visible in SO748 app after creation plz check,OUTLET_NOT_VISIBLE,P2
+need login created for sales officer joining B4 thanks,USER_CREATION,P2
+please share scheme details for DB2900 urgent,SCHEME_MAIL,P4
+"goods receipt pending, stock not updating for DB4694 asap",GRN_STUCK,P1
+please create user id for new SO SO460 urgent,USER_CREATION,P2
+please add stock of new product in DMS kindly do needful,INVENTORY_ADD,P5
+need login created for sales officer joining B20 pls help,USER_CREATION,P2
+new user creation request for DB3999 urgent,USER_CREATION,P2
+outlets missing from route for distributor DB3848 thanks,OUTLET_NOT_VISIBLE,P2
+app showing session expired again and again for SO154 kindly do needful,LOGIN_ISSUE,P2
+"unable to login in app, invalid credentials error asap",LOGIN_ISSUE,P2
+please add stock of new product in DMS asap,INVENTORY_ADD,P5
+GRN STUCK FOR INVOICE INV41186 SINCE MORNING SAME ISSUE SINCE YESTERDAY,GRN_STUCK,P1
+add new sku to inventory for DB9779 asap,INVENTORY_ADD,P5
+please create user id for new SO SO369 plz check,USER_CREATION,P2
+pjp mapping issue - outlets not loading on route asap,PJP_MAP,P1
+"USER ID NOT CREATED YET FOR SO161, PENDING 2 DAYS PLZ CHECK",USER_CREATION,P2
+"GRN NOT PROCESSING, DISTRIBUTOR DB9410 UNABLE TO RECEIVE STOCK THANKS",GRN_STUCK,P1
+outlets missing from route for distributor DB9364 kindly do needful,OUTLET_NOT_VISIBLE,P2
+outlets missing from route for distributor DB2016 kindly do needful,OUTLET_NOT_VISIBLE,P2
+app showing session expired again and again for SO192 pls help,LOGIN_ISSUE,P2
+"unable to login in app, invalid credentials error asap",LOGIN_ISSUE,P2
+outlets missing from route for distributor DB4337 plz check,OUTLET_NOT_VISIBLE,P2
+GRN stuck for invoice INV50173 since morning plz check,GRN_STUCK,P1
+"SO477 cannot login, otp not received kindly do needful",LOGIN_ISSUE,P2
+outlet not visible in SO175 app after creation asap,OUTLET_NOT_VISIBLE,P2
+please create user id for new SO SO533,USER_CREATION,P2
+new outlet created but not showing in beat B58 pls help,OUTLET_NOT_VISIBLE,P2
+"SO418 cannot login, otp not received urgent",LOGIN_ISSUE,P2
+"SO501 cannot login, otp not received",LOGIN_ISSUE,P2
+"goods receipt pending, stock not updating for DB7897 pls help",GRN_STUCK,P1
+pjp map not showing for beat B15 pls help,PJP_MAP,P1
+inventory addition request for distributor DB7979,INVENTORY_ADD,P5
+shop not appearing in app even after sync,OUTLET_NOT_VISIBLE,P2
+login failing after app update asap,LOGIN_ISSUE,P2
+pjp map not showing for beat B46 same issue since yesterday,PJP_MAP,P1
+please shift outlets from B60 to new beat,BEAT_CHANGE,P3
+please shift outlets from B51 to new beat same issue since yesterday,BEAT_CHANGE,P3
+change beat for outlet in B35 asap,BEAT_CHANGE,P3
+pjp map not showing for beat B56 kindly do needful,PJP_MAP,P1
+login failing after app update,LOGIN_ISSUE,P2
+"goods receipt pending, stock not updating for DB8894 same issue since yesterday",GRN_STUCK,P1
+"grn not processing, distributor DB4068 unable to receive stock pls help",GRN_STUCK,P1
+please create user id for new SO SO241 same issue since yesterday,USER_CREATION,P2
+NEED LOGIN CREATED FOR SALES OFFICER JOINING B17 URGENT,USER_CREATION,P2
+please create user id for new SO SO928,USER_CREATION,P2
+need login created for sales officer joining B5 kindly do needful,USER_CREATION,P2
+"goods receipt pending, stock not updating for DB8912 thanks",GRN_STUCK,P1
+scheme mail not received for this month,SCHEME_MAIL,P4
+PJP MAP NOT SHOWING FOR BEAT B23 SAME ISSUE SINCE YESTERDAY,PJP_MAP,P1
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO564 URGENT,LOGIN_ISSUE,P2
+please share scheme details for DB8593,SCHEME_MAIL,P4
+scheme not applied on invoice INV64687 urgent,SCHEME_MAIL,P4
+beat reassignment request for distributor DB4788 same issue since yesterday,BEAT_CHANGE,P3
+please share scheme details for DB6298 urgent,SCHEME_MAIL,P4
+SHOP NOT APPEARING IN APP EVEN AFTER SYNC PLS HELP,OUTLET_NOT_VISIBLE,P2
+BEAT MODIFICATION REQUIRED FOR SO945 ASAP,BEAT_CHANGE,P3
+beat modification required for SO181 kindly do needful,BEAT_CHANGE,P3
+new outlet created but not showing in beat B15 urgent,OUTLET_NOT_VISIBLE,P2
+PJP not visible in app for user SO145 kindly do needful,PJP_MAP,P1
+please shift outlets from B55 to new beat thanks,BEAT_CHANGE,P3
+shop not appearing in app even after sync plz check,OUTLET_NOT_VISIBLE,P2
+"unable to login in app, invalid credentials error kindly do needful",LOGIN_ISSUE,P2
+add new sku to inventory for DB7003,INVENTORY_ADD,P5
+add new sku to inventory for DB6968 urgent,INVENTORY_ADD,P5
+need login created for sales officer joining B31 same issue since yesterday,USER_CREATION,P2
+GRN stuck for invoice INV14847 since morning asap,GRN_STUCK,P1
+SCHEME MAIL NOT RECEIVED FOR THIS MONTH THANKS,SCHEME_MAIL,P4
+scheme mail not received for this month pls help,SCHEME_MAIL,P4
+need login created for sales officer joining B19 thanks,USER_CREATION,P2
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO401 PLS HELP,LOGIN_ISSUE,P2
+GRN stuck for invoice INV52143 since morning plz check,GRN_STUCK,P1
+need login created for sales officer joining B7 thanks,USER_CREATION,P2
+"goods receipt pending, stock not updating for DB8684 same issue since yesterday",GRN_STUCK,P1
+beat modification required for SO238 kindly do needful,BEAT_CHANGE,P3
+"SO603 CANNOT LOGIN, OTP NOT RECEIVED ASAP",LOGIN_ISSUE,P2
+outlets missing from route for distributor DB4187 thanks,OUTLET_NOT_VISIBLE,P2
+new user creation request for DB2800,USER_CREATION,P2
+add new sku to inventory for DB7139 same issue since yesterday,INVENTORY_ADD,P5
+add new sku to inventory for DB2639 kindly do needful,INVENTORY_ADD,P5
+please shift outlets from B38 to new beat,BEAT_CHANGE,P3
+discount scheme missing in app for B36 same issue since yesterday,SCHEME_MAIL,P4
+PLEASE ADD STOCK OF NEW PRODUCT IN DMS PLZ CHECK,INVENTORY_ADD,P5
+"goods receipt pending, stock not updating for DB9914",GRN_STUCK,P1
+change beat for outlet in B12 plz check,BEAT_CHANGE,P3
+"SO403 CANNOT LOGIN, OTP NOT RECEIVED",LOGIN_ISSUE,P2
+PJP NOT VISIBLE IN APP FOR USER SO186 SAME ISSUE SINCE YESTERDAY,PJP_MAP,P1
+PJP NOT VISIBLE IN APP FOR USER SO721 ASAP,PJP_MAP,P1
+"SO723 cannot login, otp not received thanks",LOGIN_ISSUE,P2
+"beat plan missing on map, SO982 cannot start day kindly do needful",PJP_MAP,P1
+please shift outlets from B24 to new beat pls help,BEAT_CHANGE,P3
+app showing session expired again and again for SO588,LOGIN_ISSUE,P2
+need login created for sales officer joining B47 pls help,USER_CREATION,P2
+new user creation request for DB1011 kindly do needful,USER_CREATION,P2
+"GRN failed in DMS, invoice INV78062 still open asap",GRN_STUCK,P1
+"GRN NOT PROCESSING, DISTRIBUTOR DB2864 UNABLE TO RECEIVE STOCK THANKS",GRN_STUCK,P1
+app showing session expired again and again for SO220 pls help,LOGIN_ISSUE,P2
+beat reassignment request for distributor DB1352 kindly do needful,BEAT_CHANGE,P3
+"unable to login in app, invalid credentials error",LOGIN_ISSUE,P2
+new user creation request for DB7223 kindly do needful,USER_CREATION,P2
+beat reassignment request for distributor DB2467 thanks,BEAT_CHANGE,P3
+pjp mapping issue - outlets not loading on route thanks,PJP_MAP,P1
+pjp mapping issue - outlets not loading on route thanks,PJP_MAP,P1
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO271 URGENT,LOGIN_ISSUE,P2
+pjp map not showing for beat B27 plz check,PJP_MAP,P1
+"SO715 cannot login, otp not received asap",LOGIN_ISSUE,P2
+opening stock entry needed for DB7076,INVENTORY_ADD,P5
+new outlet created but not showing in beat B1 asap,OUTLET_NOT_VISIBLE,P2
+opening stock entry needed for DB6902 urgent,INVENTORY_ADD,P5
+add new sku to inventory for DB9518 plz check,INVENTORY_ADD,P5
+outlet not visible in SO933 app after creation pls help,OUTLET_NOT_VISIBLE,P2
+NEED LOGIN CREATED FOR SALES OFFICER JOINING B19 PLS HELP,USER_CREATION,P2
+app showing session expired again and again for SO226 same issue since yesterday,LOGIN_ISSUE,P2
+PLEASE ADD STOCK OF NEW PRODUCT IN DMS THANKS,INVENTORY_ADD,P5
+please add stock of new product in DMS kindly do needful,INVENTORY_ADD,P5
+need login created for sales officer joining B16 kindly do needful,USER_CREATION,P2
+"grn not processing, distributor DB8900 unable to receive stock pls help",GRN_STUCK,P1
+"unable to login in app, invalid credentials error urgent",LOGIN_ISSUE,P2
+"unable to login in app, invalid credentials error asap",LOGIN_ISSUE,P2
+pjp map not showing for beat B23 asap,PJP_MAP,P1
+new user creation request for DB5890 asap,USER_CREATION,P2
+NEW OUTLET CREATED BUT NOT SHOWING IN BEAT B47 SAME ISSUE SINCE YESTERDAY,OUTLET_NOT_VISIBLE,P2
+NEED LOGIN CREATED FOR SALES OFFICER JOINING B45 PLS HELP,USER_CREATION,P2
+please add stock of new product in DMS plz check,INVENTORY_ADD,P5
+please share scheme details for DB6832 asap,SCHEME_MAIL,P4
+please add stock of new product in DMS same issue since yesterday,INVENTORY_ADD,P5
+"beat plan missing on map, SO110 cannot start day pls help",PJP_MAP,P1
+app showing session expired again and again for SO341 pls help,LOGIN_ISSUE,P2
+NEW OUTLET CREATED BUT NOT SHOWING IN BEAT B31,OUTLET_NOT_VISIBLE,P2
+PJP MAPPING ISSUE - OUTLETS NOT LOADING ON ROUTE,PJP_MAP,P1
+"goods receipt pending, stock not updating for DB5496 asap",GRN_STUCK,P1
+please add stock of new product in DMS,INVENTORY_ADD,P5
+"GOODS RECEIPT PENDING, STOCK NOT UPDATING FOR DB9452 ASAP",GRN_STUCK,P1
+"GRN failed in DMS, invoice INV89928 still open urgent",GRN_STUCK,P1
+PJP not visible in app for user SO137 same issue since yesterday,PJP_MAP,P1
+opening stock entry needed for DB6451 pls help,INVENTORY_ADD,P5
+need login created for sales officer joining B53 pls help,USER_CREATION,P2
+pjp mapping issue - outlets not loading on route,PJP_MAP,P1
+beat reassignment request for distributor DB1916 same issue since yesterday,BEAT_CHANGE,P3
+"GRN failed in DMS, invoice INV58929 still open asap",GRN_STUCK,P1
+please add stock of new product in DMS asap,INVENTORY_ADD,P5
+"beat plan missing on map, SO479 cannot start day asap",PJP_MAP,P1
+please create user id for new SO SO588 kindly do needful,USER_CREATION,P2
+please shift outlets from B30 to new beat asap,BEAT_CHANGE,P3
+"user id not created yet for SO126, pending 2 days pls help",USER_CREATION,P2
+scheme mail not received for this month plz check,SCHEME_MAIL,P4
+"unable to login in app, invalid credentials error urgent",LOGIN_ISSUE,P2
+inventory addition request for distributor DB3959 asap,INVENTORY_ADD,P5
+pjp mapping issue - outlets not loading on route thanks,PJP_MAP,P1
+"SO921 cannot login, otp not received thanks",LOGIN_ISSUE,P2
+add new sku to inventory for DB3003 same issue since yesterday,INVENTORY_ADD,P5
+"unable to login in app, invalid credentials error urgent",LOGIN_ISSUE,P2
+"goods receipt pending, stock not updating for DB5520 pls help",GRN_STUCK,P1
+add new sku to inventory for DB9399 plz check,INVENTORY_ADD,P5
+please add stock of new product in DMS same issue since yesterday,INVENTORY_ADD,P5
+"SO931 cannot login, otp not received kindly do needful",LOGIN_ISSUE,P2
+add new sku to inventory for DB3736 pls help,INVENTORY_ADD,P5
+"beat plan missing on map, SO296 cannot start day kindly do needful",PJP_MAP,P1
+"SO222 cannot login, otp not received asap",LOGIN_ISSUE,P2
+change beat for outlet in B34,BEAT_CHANGE,P3
+new user creation request for DB7179,USER_CREATION,P2
+please create user id for new SO SO769,USER_CREATION,P2
+OUTLET NOT VISIBLE IN SO193 APP AFTER CREATION THANKS,OUTLET_NOT_VISIBLE,P2
+please shift outlets from B29 to new beat urgent,BEAT_CHANGE,P3
+"GRN failed in DMS, invoice INV60678 still open same issue since yesterday",GRN_STUCK,P1
+BEAT REASSIGNMENT REQUEST FOR DISTRIBUTOR DB1826 THANKS,BEAT_CHANGE,P3
+beat reassignment request for distributor DB8258 asap,BEAT_CHANGE,P3
+inventory addition request for distributor DB9063 thanks,INVENTORY_ADD,P5
+scheme mail not received for this month plz check,SCHEME_MAIL,P4
+app showing session expired again and again for SO131 urgent,LOGIN_ISSUE,P2
+beat modification required for SO731 urgent,BEAT_CHANGE,P3
+outlets missing from route for distributor DB7563 plz check,OUTLET_NOT_VISIBLE,P2
+discount scheme missing in app for B52 thanks,SCHEME_MAIL,P4
+add new sku to inventory for DB5603 thanks,INVENTORY_ADD,P5
+please create user id for new SO SO627 plz check,USER_CREATION,P2
+app showing session expired again and again for SO600 thanks,LOGIN_ISSUE,P2
+please share scheme details for DB8361,SCHEME_MAIL,P4
+"goods receipt pending, stock not updating for DB9624 thanks",GRN_STUCK,P1
+please share scheme details for DB8799 same issue since yesterday,SCHEME_MAIL,P4
+GRN stuck for invoice INV78676 since morning pls help,GRN_STUCK,P1
+"beat plan missing on map, SO896 cannot start day kindly do needful",PJP_MAP,P1
+"beat plan missing on map, SO790 cannot start day same issue since yesterday",PJP_MAP,P1
+app showing session expired again and again for SO264 plz check,LOGIN_ISSUE,P2
+new outlet created but not showing in beat B41 kindly do needful,OUTLET_NOT_VISIBLE,P2
+"SO950 cannot login, otp not received pls help",LOGIN_ISSUE,P2
+pjp mapping issue - outlets not loading on route same issue since yesterday,PJP_MAP,P1
+change beat for outlet in B43 plz check,BEAT_CHANGE,P3
+"user id not created yet for SO890, pending 2 days same issue since yesterday",USER_CREATION,P2
+scheme not applied on invoice INV58487 urgent,SCHEME_MAIL,P4
+login failing after app update kindly do needful,LOGIN_ISSUE,P2
+beat modification required for SO720 pls help,BEAT_CHANGE,P3
+app showing session expired again and again for SO466 pls help,LOGIN_ISSUE,P2
+OUTLET NOT VISIBLE IN SO952 APP AFTER CREATION ASAP,OUTLET_NOT_VISIBLE,P2
+please create user id for new SO SO708,USER_CREATION,P2
+please create user id for new SO SO374 urgent,USER_CREATION,P2
+PJP MAP NOT SHOWING FOR BEAT B2 KINDLY DO NEEDFUL,PJP_MAP,P1
+"user id not created yet for SO348, pending 2 days kindly do needful",USER_CREATION,P2
+OPENING STOCK ENTRY NEEDED FOR DB7056 PLZ CHECK,INVENTORY_ADD,P5
+"SO837 cannot login, otp not received pls help",LOGIN_ISSUE,P2
+beat reassignment request for distributor DB4057 same issue since yesterday,BEAT_CHANGE,P3
+beat modification required for SO110 urgent,BEAT_CHANGE,P3
+GRN stuck for invoice INV25220 since morning pls help,GRN_STUCK,P1
+app showing session expired again and again for SO108 thanks,LOGIN_ISSUE,P2
+"beat plan missing on map, SO512 cannot start day plz check",PJP_MAP,P1
+scheme not applied on invoice INV75004 thanks,SCHEME_MAIL,P4
+"SO398 cannot login, otp not received pls help",LOGIN_ISSUE,P2
+pjp mapping issue - outlets not loading on route pls help,PJP_MAP,P1
+opening stock entry needed for DB3540 pls help,INVENTORY_ADD,P5
+"grn not processing, distributor DB5106 unable to receive stock pls help",GRN_STUCK,P1
+please share scheme details for DB2369 plz check,SCHEME_MAIL,P4
+please share scheme details for DB5420 kindly do needful,SCHEME_MAIL,P4
+"goods receipt pending, stock not updating for DB6649 pls help",GRN_STUCK,P1
+"beat plan missing on map, SO661 cannot start day asap",PJP_MAP,P1
+pjp mapping issue - outlets not loading on route,PJP_MAP,P1
+new user creation request for DB6218 thanks,USER_CREATION,P2
+opening stock entry needed for DB1471 asap,INVENTORY_ADD,P5
+"user id not created yet for SO537, pending 2 days pls help",USER_CREATION,P2
+please share scheme details for DB8347 urgent,SCHEME_MAIL,P4
+"SO728 cannot login, otp not received asap",LOGIN_ISSUE,P2
+NEW OUTLET CREATED BUT NOT SHOWING IN BEAT B46 SAME ISSUE SINCE YESTERDAY,OUTLET_NOT_VISIBLE,P2
+please share scheme details for DB8917 pls help,SCHEME_MAIL,P4
+login failing after app update pls help,LOGIN_ISSUE,P2
+need login created for sales officer joining B47,USER_CREATION,P2
+scheme mail not received for this month urgent,SCHEME_MAIL,P4
+"grn not processing, distributor DB9837 unable to receive stock asap",GRN_STUCK,P1
+PJP not visible in app for user SO325,PJP_MAP,P1
+"unable to login in app, invalid credentials error kindly do needful",LOGIN_ISSUE,P2
+GRN stuck for invoice INV27054 since morning,GRN_STUCK,P1
+please add stock of new product in DMS urgent,INVENTORY_ADD,P5
+"goods receipt pending, stock not updating for DB4830",GRN_STUCK,P1
+inventory addition request for distributor DB2119,INVENTORY_ADD,P5
+"grn not processing, distributor DB7078 unable to receive stock thanks",GRN_STUCK,P1
+login failing after app update same issue since yesterday,LOGIN_ISSUE,P2
+SCHEME NOT APPLIED ON INVOICE INV53975 PLS HELP,SCHEME_MAIL,P4
+shop not appearing in app even after sync urgent,OUTLET_NOT_VISIBLE,P2
+"SO505 cannot login, otp not received asap",LOGIN_ISSUE,P2
+PJP not visible in app for user SO725 thanks,PJP_MAP,P1
+SCHEME NOT APPLIED ON INVOICE INV73577 PLS HELP,SCHEME_MAIL,P4
+app showing session expired again and again for SO660 urgent,LOGIN_ISSUE,P2
+"grn not processing, distributor DB5668 unable to receive stock kindly do needful",GRN_STUCK,P1
+GRN stuck for invoice INV55793 since morning same issue since yesterday,GRN_STUCK,P1
+please share scheme details for DB3915 pls help,SCHEME_MAIL,P4
+"beat plan missing on map, SO431 cannot start day",PJP_MAP,P1
+opening stock entry needed for DB4411 thanks,INVENTORY_ADD,P5
+new outlet created but not showing in beat B37 asap,OUTLET_NOT_VISIBLE,P2
+PLEASE SHARE SCHEME DETAILS FOR DB5641 KINDLY DO NEEDFUL,SCHEME_MAIL,P4
+"grn not processing, distributor DB9543 unable to receive stock plz check",GRN_STUCK,P1
+pjp map not showing for beat B55 pls help,PJP_MAP,P1
+"beat plan missing on map, SO819 cannot start day asap",PJP_MAP,P1
+beat modification required for SO565 same issue since yesterday,BEAT_CHANGE,P3
+app showing session expired again and again for SO787 asap,LOGIN_ISSUE,P2
+new outlet created but not showing in beat B59 plz check,OUTLET_NOT_VISIBLE,P2
+scheme mail not received for this month same issue since yesterday,SCHEME_MAIL,P4
+opening stock entry needed for DB5151 asap,INVENTORY_ADD,P5
+"SO965 cannot login, otp not received same issue since yesterday",LOGIN_ISSUE,P2
+"SO111 cannot login, otp not received same issue since yesterday",LOGIN_ISSUE,P2
+PJP MAP NOT SHOWING FOR BEAT B6 URGENT,PJP_MAP,P1
+shop not appearing in app even after sync pls help,OUTLET_NOT_VISIBLE,P2
+outlet not visible in SO357 app after creation thanks,OUTLET_NOT_VISIBLE,P2
+beat modification required for SO191 same issue since yesterday,BEAT_CHANGE,P3
+discount scheme missing in app for B52 plz check,SCHEME_MAIL,P4
+need login created for sales officer joining B17 plz check,USER_CREATION,P2
+beat modification required for SO309 plz check,BEAT_CHANGE,P3
+INVENTORY ADDITION REQUEST FOR DISTRIBUTOR DB6036 KINDLY DO NEEDFUL,INVENTORY_ADD,P5
+"user id not created yet for SO958, pending 2 days thanks",USER_CREATION,P2
+"SO866 cannot login, otp not received plz check",LOGIN_ISSUE,P2
+"GRN failed in DMS, invoice INV14081 still open urgent",GRN_STUCK,P1
+PLEASE SHIFT OUTLETS FROM B45 TO NEW BEAT SAME ISSUE SINCE YESTERDAY,BEAT_CHANGE,P3
+please share scheme details for DB8424 pls help,SCHEME_MAIL,P4
+please create user id for new SO SO201 pls help,USER_CREATION,P2
+new user creation request for DB7483 thanks,USER_CREATION,P2
+outlets missing from route for distributor DB7631 pls help,OUTLET_NOT_VISIBLE,P2
+"grn not processing, distributor DB2627 unable to receive stock same issue since yesterday",GRN_STUCK,P1
+pjp mapping issue - outlets not loading on route pls help,PJP_MAP,P1
+DISCOUNT SCHEME MISSING IN APP FOR B14 ASAP,SCHEME_MAIL,P4
+BEAT MODIFICATION REQUIRED FOR SO801 PLS HELP,BEAT_CHANGE,P3
+"SO140 cannot login, otp not received same issue since yesterday",LOGIN_ISSUE,P2
+pjp mapping issue - outlets not loading on route same issue since yesterday,PJP_MAP,P1
+GRN stuck for invoice INV49315 since morning urgent,GRN_STUCK,P1
+opening stock entry needed for DB4677,INVENTORY_ADD,P5
+"goods receipt pending, stock not updating for DB3981 thanks",GRN_STUCK,P1
+change beat for outlet in B39 thanks,BEAT_CHANGE,P3
+please create user id for new SO SO134,USER_CREATION,P2
+beat reassignment request for distributor DB5467 urgent,BEAT_CHANGE,P3
+scheme not applied on invoice INV32509 asap,SCHEME_MAIL,P4
+change beat for outlet in B4 urgent,BEAT_CHANGE,P3
+outlets missing from route for distributor DB4115 kindly do needful,OUTLET_NOT_VISIBLE,P2
+please shift outlets from B23 to new beat asap,BEAT_CHANGE,P3
+"unable to login in app, invalid credentials error asap",LOGIN_ISSUE,P2
+please shift outlets from B12 to new beat kindly do needful,BEAT_CHANGE,P3
+beat reassignment request for distributor DB4992 urgent,BEAT_CHANGE,P3
+app showing session expired again and again for SO910 asap,LOGIN_ISSUE,P2
+new user creation request for DB7899 plz check,USER_CREATION,P2
+SHOP NOT APPEARING IN APP EVEN AFTER SYNC KINDLY DO NEEDFUL,OUTLET_NOT_VISIBLE,P2
+discount scheme missing in app for B25 urgent,SCHEME_MAIL,P4
+please share scheme details for DB2594 urgent,SCHEME_MAIL,P4
+please create user id for new SO SO978 thanks,USER_CREATION,P2
+please create user id for new SO SO827 same issue since yesterday,USER_CREATION,P2
+PJP not visible in app for user SO813 thanks,PJP_MAP,P1
+inventory addition request for distributor DB4278 asap,INVENTORY_ADD,P5
+beat modification required for SO811 thanks,BEAT_CHANGE,P3
+app showing session expired again and again for SO189 urgent,LOGIN_ISSUE,P2
+scheme mail not received for this month pls help,SCHEME_MAIL,P4
+shop not appearing in app even after sync pls help,OUTLET_NOT_VISIBLE,P2
+pjp mapping issue - outlets not loading on route,PJP_MAP,P1
+new user creation request for DB2025 pls help,USER_CREATION,P2
+shop not appearing in app even after sync thanks,OUTLET_NOT_VISIBLE,P2
+new outlet created but not showing in beat B43 pls help,OUTLET_NOT_VISIBLE,P2
+"beat plan missing on map, SO435 cannot start day same issue since yesterday",PJP_MAP,P1
+add new sku to inventory for DB9161 pls help,INVENTORY_ADD,P5
+app showing session expired again and again for SO462 asap,LOGIN_ISSUE,P2
+please shift outlets from B5 to new beat same issue since yesterday,BEAT_CHANGE,P3
+scheme mail not received for this month urgent,SCHEME_MAIL,P4
+scheme mail not received for this month same issue since yesterday,SCHEME_MAIL,P4
+pjp mapping issue - outlets not loading on route same issue since yesterday,PJP_MAP,P1
+need login created for sales officer joining B29 urgent,USER_CREATION,P2
+BEAT REASSIGNMENT REQUEST FOR DISTRIBUTOR DB9059 ASAP,BEAT_CHANGE,P3
+app showing session expired again and again for SO991 same issue since yesterday,LOGIN_ISSUE,P2
+PJP not visible in app for user SO222,PJP_MAP,P1
+"goods receipt pending, stock not updating for DB7464 asap",GRN_STUCK,P1
+new user creation request for DB8037,USER_CREATION,P2
+"unable to login in app, invalid credentials error urgent",LOGIN_ISSUE,P2
+GRN stuck for invoice INV58096 since morning thanks,GRN_STUCK,P1
+beat reassignment request for distributor DB6507 plz check,BEAT_CHANGE,P3
+"user id not created yet for SO617, pending 2 days plz check",USER_CREATION,P2
+outlets missing from route for distributor DB2127 thanks,OUTLET_NOT_VISIBLE,P2
+app showing session expired again and again for SO723 urgent,LOGIN_ISSUE,P2
+add new sku to inventory for DB5089 urgent,INVENTORY_ADD,P5
+new outlet created but not showing in beat B48,OUTLET_NOT_VISIBLE,P2
+new outlet created but not showing in beat B40 urgent,OUTLET_NOT_VISIBLE,P2
+opening stock entry needed for DB2766,INVENTORY_ADD,P5
+INVENTORY ADDITION REQUEST FOR DISTRIBUTOR DB8295 PLZ CHECK,INVENTORY_ADD,P5
+discount scheme missing in app for B9 kindly do needful,SCHEME_MAIL,P4
+please share scheme details for DB8571 urgent,SCHEME_MAIL,P4
+GRN stuck for invoice INV45811 since morning pls help,GRN_STUCK,P1
+new user creation request for DB9525 pls help,USER_CREATION,P2
+pjp mapping issue - outlets not loading on route kindly do needful,PJP_MAP,P1
+discount scheme missing in app for B37 kindly do needful,SCHEME_MAIL,P4
+need login created for sales officer joining B11 asap,USER_CREATION,P2
+shop not appearing in app even after sync,OUTLET_NOT_VISIBLE,P2
+add new sku to inventory for DB2830,INVENTORY_ADD,P5
+beat modification required for SO867 same issue since yesterday,BEAT_CHANGE,P3
+GRN STUCK FOR INVOICE INV21053 SINCE MORNING URGENT,GRN_STUCK,P1
+"goods receipt pending, stock not updating for DB4362 kindly do needful",GRN_STUCK,P1
+"beat plan missing on map, SO948 cannot start day thanks",PJP_MAP,P1
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO487 THANKS,LOGIN_ISSUE,P2
+PJP not visible in app for user SO897 same issue since yesterday,PJP_MAP,P1
+need login created for sales officer joining B42 pls help,USER_CREATION,P2
+shop not appearing in app even after sync urgent,OUTLET_NOT_VISIBLE,P2
+add new sku to inventory for DB5478 plz check,INVENTORY_ADD,P5
+opening stock entry needed for DB5550 same issue since yesterday,INVENTORY_ADD,P5
+outlet not visible in SO193 app after creation kindly do needful,OUTLET_NOT_VISIBLE,P2
+scheme mail not received for this month kindly do needful,SCHEME_MAIL,P4
+please create user id for new SO SO583 thanks,USER_CREATION,P2
+"user id not created yet for SO323, pending 2 days kindly do needful",USER_CREATION,P2
+discount scheme missing in app for B44 kindly do needful,SCHEME_MAIL,P4
+"GRN failed in DMS, invoice INV92210 still open same issue since yesterday",GRN_STUCK,P1
+"goods receipt pending, stock not updating for DB7947 plz check",GRN_STUCK,P1
+scheme mail not received for this month,SCHEME_MAIL,P4
+discount scheme missing in app for B37 same issue since yesterday,SCHEME_MAIL,P4
+pjp mapping issue - outlets not loading on route asap,PJP_MAP,P1
+scheme not applied on invoice INV91948 same issue since yesterday,SCHEME_MAIL,P4
+PJP not visible in app for user SO530 urgent,PJP_MAP,P1
+beat reassignment request for distributor DB4666 asap,BEAT_CHANGE,P3
+"goods receipt pending, stock not updating for DB7825",GRN_STUCK,P1
+outlets missing from route for distributor DB4809 asap,OUTLET_NOT_VISIBLE,P2
+pjp mapping issue - outlets not loading on route kindly do needful,PJP_MAP,P1
+"user id not created yet for SO730, pending 2 days kindly do needful",USER_CREATION,P2
+PLEASE SHIFT OUTLETS FROM B39 TO NEW BEAT ASAP,BEAT_CHANGE,P3
+"GRN FAILED IN DMS, INVOICE INV32280 STILL OPEN URGENT",GRN_STUCK,P1
+pjp map not showing for beat B58 kindly do needful,PJP_MAP,P1
+DISCOUNT SCHEME MISSING IN APP FOR B57 URGENT,SCHEME_MAIL,P4
+"SO810 CANNOT LOGIN, OTP NOT RECEIVED URGENT",LOGIN_ISSUE,P2
+NEW USER CREATION REQUEST FOR DB5945 ASAP,USER_CREATION,P2
+shop not appearing in app even after sync thanks,OUTLET_NOT_VISIBLE,P2
+"goods receipt pending, stock not updating for DB9984 thanks",GRN_STUCK,P1
+"GRN failed in DMS, invoice INV21506 still open same issue since yesterday",GRN_STUCK,P1
+"GRN failed in DMS, invoice INV60052 still open thanks",GRN_STUCK,P1
+"SO307 cannot login, otp not received pls help",LOGIN_ISSUE,P2
+opening stock entry needed for DB7931 thanks,INVENTORY_ADD,P5
+"SO277 cannot login, otp not received asap",LOGIN_ISSUE,P2
+pjp mapping issue - outlets not loading on route thanks,PJP_MAP,P1
+shop not appearing in app even after sync same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+INVENTORY ADDITION REQUEST FOR DISTRIBUTOR DB8027 ASAP,INVENTORY_ADD,P5
+beat modification required for SO652 plz check,BEAT_CHANGE,P3
+login failing after app update pls help,LOGIN_ISSUE,P2
+outlets missing from route for distributor DB8259 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+PLEASE SHIFT OUTLETS FROM B4 TO NEW BEAT PLS HELP,BEAT_CHANGE,P3
+scheme mail not received for this month asap,SCHEME_MAIL,P4
+beat modification required for SO887 asap,BEAT_CHANGE,P3
+PJP MAP NOT SHOWING FOR BEAT B57 ASAP,PJP_MAP,P1
+PJP MAP NOT SHOWING FOR BEAT B10 KINDLY DO NEEDFUL,PJP_MAP,P1
+"unable to login in app, invalid credentials error",LOGIN_ISSUE,P2
+shop not appearing in app even after sync urgent,OUTLET_NOT_VISIBLE,P2
+scheme mail not received for this month thanks,SCHEME_MAIL,P4
+PJP not visible in app for user SO266,PJP_MAP,P1
+SHOP NOT APPEARING IN APP EVEN AFTER SYNC SAME ISSUE SINCE YESTERDAY,OUTLET_NOT_VISIBLE,P2
+beat modification required for SO603,BEAT_CHANGE,P3
+scheme mail not received for this month,SCHEME_MAIL,P4
+OUTLETS MISSING FROM ROUTE FOR DISTRIBUTOR DB3316,OUTLET_NOT_VISIBLE,P2
+scheme mail not received for this month plz check,SCHEME_MAIL,P4
+please share scheme details for DB1176 plz check,SCHEME_MAIL,P4
+pjp mapping issue - outlets not loading on route plz check,PJP_MAP,P1
+OUTLET NOT VISIBLE IN SO277 APP AFTER CREATION THANKS,OUTLET_NOT_VISIBLE,P2
+"USER ID NOT CREATED YET FOR SO962, PENDING 2 DAYS URGENT",USER_CREATION,P2
+"goods receipt pending, stock not updating for DB1424 plz check",GRN_STUCK,P1
+new outlet created but not showing in beat B48 urgent,OUTLET_NOT_VISIBLE,P2
+PJP not visible in app for user SO457 same issue since yesterday,PJP_MAP,P1
+please create user id for new SO SO615 same issue since yesterday,USER_CREATION,P2
+BEAT REASSIGNMENT REQUEST FOR DISTRIBUTOR DB6544,BEAT_CHANGE,P3
+GRN stuck for invoice INV56090 since morning pls help,GRN_STUCK,P1
+PJP not visible in app for user SO575,PJP_MAP,P1
+"BEAT PLAN MISSING ON MAP, SO259 CANNOT START DAY PLS HELP",PJP_MAP,P1
+new outlet created but not showing in beat B32 thanks,OUTLET_NOT_VISIBLE,P2
+discount scheme missing in app for B18 kindly do needful,SCHEME_MAIL,P4
+PJP not visible in app for user SO368 thanks,PJP_MAP,P1
+"GOODS RECEIPT PENDING, STOCK NOT UPDATING FOR DB5498",GRN_STUCK,P1
+please add stock of new product in DMS pls help,INVENTORY_ADD,P5
+need login created for sales officer joining B22 plz check,USER_CREATION,P2
+scheme mail not received for this month asap,SCHEME_MAIL,P4
+BEAT MODIFICATION REQUIRED FOR SO389 SAME ISSUE SINCE YESTERDAY,BEAT_CHANGE,P3
+beat modification required for SO949 pls help,BEAT_CHANGE,P3
+outlet not visible in SO307 app after creation thanks,OUTLET_NOT_VISIBLE,P2
+NEW USER CREATION REQUEST FOR DB8871 THANKS,USER_CREATION,P2
+new user creation request for DB7887 thanks,USER_CREATION,P2
+BEAT MODIFICATION REQUIRED FOR SO397 PLS HELP,BEAT_CHANGE,P3
+new user creation request for DB5712 same issue since yesterday,USER_CREATION,P2
+pjp mapping issue - outlets not loading on route pls help,PJP_MAP,P1
+"beat plan missing on map, SO866 cannot start day pls help",PJP_MAP,P1
+please add stock of new product in DMS urgent,INVENTORY_ADD,P5
+"SO305 CANNOT LOGIN, OTP NOT RECEIVED PLZ CHECK",LOGIN_ISSUE,P2
+shop not appearing in app even after sync pls help,OUTLET_NOT_VISIBLE,P2
+outlets missing from route for distributor DB8017,OUTLET_NOT_VISIBLE,P2
+"beat plan missing on map, SO803 cannot start day plz check",PJP_MAP,P1
+outlet not visible in SO455 app after creation urgent,OUTLET_NOT_VISIBLE,P2
+please shift outlets from B57 to new beat asap,BEAT_CHANGE,P3
+"user id not created yet for SO407, pending 2 days plz check",USER_CREATION,P2
+add new sku to inventory for DB8423 urgent,INVENTORY_ADD,P5
+pjp mapping issue - outlets not loading on route thanks,PJP_MAP,P1
+"unable to login in app, invalid credentials error pls help",LOGIN_ISSUE,P2
+outlet not visible in SO905 app after creation pls help,OUTLET_NOT_VISIBLE,P2
+"user id not created yet for SO216, pending 2 days urgent",USER_CREATION,P2
+add new sku to inventory for DB5635,INVENTORY_ADD,P5
+scheme mail not received for this month kindly do needful,SCHEME_MAIL,P4
+please create user id for new SO SO279,USER_CREATION,P2
+"beat plan missing on map, SO756 cannot start day asap",PJP_MAP,P1
+NEW OUTLET CREATED BUT NOT SHOWING IN BEAT B42 KINDLY DO NEEDFUL,OUTLET_NOT_VISIBLE,P2
+pjp map not showing for beat B29,PJP_MAP,P1
+please shift outlets from B22 to new beat,BEAT_CHANGE,P3
+"SO646 cannot login, otp not received thanks",LOGIN_ISSUE,P2
+please shift outlets from B58 to new beat thanks,BEAT_CHANGE,P3
+please add stock of new product in DMS plz check,INVENTORY_ADD,P5
+new user creation request for DB9499 kindly do needful,USER_CREATION,P2
+beat modification required for SO659 plz check,BEAT_CHANGE,P3
+"UNABLE TO LOGIN IN APP, INVALID CREDENTIALS ERROR URGENT",LOGIN_ISSUE,P2
+please shift outlets from B19 to new beat thanks,BEAT_CHANGE,P3
+inventory addition request for distributor DB4261 kindly do needful,INVENTORY_ADD,P5
+beat modification required for SO876 plz check,BEAT_CHANGE,P3
+pjp mapping issue - outlets not loading on route kindly do needful,PJP_MAP,P1
+"goods receipt pending, stock not updating for DB7070 plz check",GRN_STUCK,P1
+"goods receipt pending, stock not updating for DB2996 kindly do needful",GRN_STUCK,P1
+BEAT MODIFICATION REQUIRED FOR SO730 KINDLY DO NEEDFUL,BEAT_CHANGE,P3
+please add stock of new product in DMS same issue since yesterday,INVENTORY_ADD,P5
+add new sku to inventory for DB8051 thanks,INVENTORY_ADD,P5
+beat reassignment request for distributor DB1521 thanks,BEAT_CHANGE,P3
+please add stock of new product in DMS asap,INVENTORY_ADD,P5
+"SO415 CANNOT LOGIN, OTP NOT RECEIVED PLS HELP",LOGIN_ISSUE,P2
+"GRN failed in DMS, invoice INV75230 still open urgent",GRN_STUCK,P1
+outlets missing from route for distributor DB6866 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+new outlet created but not showing in beat B7 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+beat reassignment request for distributor DB3960 urgent,BEAT_CHANGE,P3
+"grn not processing, distributor DB3353 unable to receive stock same issue since yesterday",GRN_STUCK,P1
+new outlet created but not showing in beat B46 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+INVENTORY ADDITION REQUEST FOR DISTRIBUTOR DB9677 KINDLY DO NEEDFUL,INVENTORY_ADD,P5
+NEW OUTLET CREATED BUT NOT SHOWING IN BEAT B9 URGENT,OUTLET_NOT_VISIBLE,P2
+change beat for outlet in B42 plz check,BEAT_CHANGE,P3
+"SO199 cannot login, otp not received asap",LOGIN_ISSUE,P2
+inventory addition request for distributor DB4000 plz check,INVENTORY_ADD,P5
+outlet not visible in SO531 app after creation same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+beat modification required for SO714 same issue since yesterday,BEAT_CHANGE,P3
+PJP not visible in app for user SO796 pls help,PJP_MAP,P1
+PJP not visible in app for user SO956 asap,PJP_MAP,P1
+please create user id for new SO SO443 plz check,USER_CREATION,P2
+"grn not processing, distributor DB6170 unable to receive stock thanks",GRN_STUCK,P1
+scheme not applied on invoice INV96570 pls help,SCHEME_MAIL,P4
+please add stock of new product in DMS plz check,INVENTORY_ADD,P5
+"grn not processing, distributor DB4743 unable to receive stock same issue since yesterday",GRN_STUCK,P1
+PJP MAPPING ISSUE - OUTLETS NOT LOADING ON ROUTE PLZ CHECK,PJP_MAP,P1
+add new sku to inventory for DB4083 kindly do needful,INVENTORY_ADD,P5
+please shift outlets from B18 to new beat kindly do needful,BEAT_CHANGE,P3
+NEW OUTLET CREATED BUT NOT SHOWING IN BEAT B33 URGENT,OUTLET_NOT_VISIBLE,P2
+"grn not processing, distributor DB3417 unable to receive stock",GRN_STUCK,P1
+need login created for sales officer joining B38 plz check,USER_CREATION,P2
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO231 PLS HELP,LOGIN_ISSUE,P2
+please create user id for new SO SO549 kindly do needful,USER_CREATION,P2
+discount scheme missing in app for B19 asap,SCHEME_MAIL,P4
+PLEASE SHARE SCHEME DETAILS FOR DB2804 KINDLY DO NEEDFUL,SCHEME_MAIL,P4
+new outlet created but not showing in beat B55 asap,OUTLET_NOT_VISIBLE,P2
+opening stock entry needed for DB5412,INVENTORY_ADD,P5
+"unable to login in app, invalid credentials error pls help",LOGIN_ISSUE,P2
+"user id not created yet for SO283, pending 2 days urgent",USER_CREATION,P2
+pjp map not showing for beat B1 kindly do needful,PJP_MAP,P1
+"unable to login in app, invalid credentials error kindly do needful",LOGIN_ISSUE,P2
+"GRN failed in DMS, invoice INV49599 still open kindly do needful",GRN_STUCK,P1
+please share scheme details for DB1211 asap,SCHEME_MAIL,P4
+"GRN FAILED IN DMS, INVOICE INV95097 STILL OPEN THANKS",GRN_STUCK,P1
+PJP not visible in app for user SO605 pls help,PJP_MAP,P1
+"SO821 cannot login, otp not received same issue since yesterday",LOGIN_ISSUE,P2
+"BEAT PLAN MISSING ON MAP, SO779 CANNOT START DAY ASAP",PJP_MAP,P1
+"GRN failed in DMS, invoice INV50966 still open thanks",GRN_STUCK,P1
+login failing after app update asap,LOGIN_ISSUE,P2
+login failing after app update thanks,LOGIN_ISSUE,P2
+scheme not applied on invoice INV75210 urgent,SCHEME_MAIL,P4
+scheme not applied on invoice INV51060,SCHEME_MAIL,P4
+beat modification required for SO346 asap,BEAT_CHANGE,P3
+discount scheme missing in app for B56 pls help,SCHEME_MAIL,P4
+app showing session expired again and again for SO338,LOGIN_ISSUE,P2
+please add stock of new product in DMS thanks,INVENTORY_ADD,P5
+"GOODS RECEIPT PENDING, STOCK NOT UPDATING FOR DB1674 PLS HELP",GRN_STUCK,P1
+discount scheme missing in app for B24 asap,SCHEME_MAIL,P4
+beat modification required for SO976 asap,BEAT_CHANGE,P3
+scheme mail not received for this month pls help,SCHEME_MAIL,P4
+"goods receipt pending, stock not updating for DB2548 thanks",GRN_STUCK,P1
+PJP not visible in app for user SO419 same issue since yesterday,PJP_MAP,P1
+GRN stuck for invoice INV87569 since morning urgent,GRN_STUCK,P1
+add new sku to inventory for DB2998 same issue since yesterday,INVENTORY_ADD,P5
+"user id not created yet for SO160, pending 2 days urgent",USER_CREATION,P2
+add new sku to inventory for DB5876 plz check,INVENTORY_ADD,P5
+new user creation request for DB1265 thanks,USER_CREATION,P2
+GRN stuck for invoice INV38074 since morning same issue since yesterday,GRN_STUCK,P1
+pjp map not showing for beat B11 asap,PJP_MAP,P1
+outlet not visible in SO619 app after creation thanks,OUTLET_NOT_VISIBLE,P2
+outlets missing from route for distributor DB8801 asap,OUTLET_NOT_VISIBLE,P2
+add new sku to inventory for DB7914 same issue since yesterday,INVENTORY_ADD,P5
+"user id not created yet for SO678, pending 2 days asap",USER_CREATION,P2
+login failing after app update pls help,LOGIN_ISSUE,P2
+change beat for outlet in B53,BEAT_CHANGE,P3
+please add stock of new product in DMS pls help,INVENTORY_ADD,P5
+outlets missing from route for distributor DB8359 plz check,OUTLET_NOT_VISIBLE,P2
+"BEAT PLAN MISSING ON MAP, SO520 CANNOT START DAY PLS HELP",PJP_MAP,P1
+scheme mail not received for this month plz check,SCHEME_MAIL,P4
+opening stock entry needed for DB7912 pls help,INVENTORY_ADD,P5
+"goods receipt pending, stock not updating for DB7730 thanks",GRN_STUCK,P1
+please add stock of new product in DMS pls help,INVENTORY_ADD,P5
+add new sku to inventory for DB4926 thanks,INVENTORY_ADD,P5
+please add stock of new product in DMS same issue since yesterday,INVENTORY_ADD,P5
+"SO426 CANNOT LOGIN, OTP NOT RECEIVED ASAP",LOGIN_ISSUE,P2
+discount scheme missing in app for B56 urgent,SCHEME_MAIL,P4
+scheme not applied on invoice INV46231,SCHEME_MAIL,P4
+please add stock of new product in DMS urgent,INVENTORY_ADD,P5
+please add stock of new product in DMS thanks,INVENTORY_ADD,P5
+change beat for outlet in B37 same issue since yesterday,BEAT_CHANGE,P3
+login failing after app update,LOGIN_ISSUE,P2
+GRN stuck for invoice INV47512 since morning kindly do needful,GRN_STUCK,P1
+outlets missing from route for distributor DB8898,OUTLET_NOT_VISIBLE,P2
+inventory addition request for distributor DB1107 plz check,INVENTORY_ADD,P5
+"GRN NOT PROCESSING, DISTRIBUTOR DB1645 UNABLE TO RECEIVE STOCK PLZ CHECK",GRN_STUCK,P1
+change beat for outlet in B19 thanks,BEAT_CHANGE,P3
+outlets missing from route for distributor DB2311,OUTLET_NOT_VISIBLE,P2
+discount scheme missing in app for B58 pls help,SCHEME_MAIL,P4
+please shift outlets from B46 to new beat asap,BEAT_CHANGE,P3
+beat reassignment request for distributor DB6412 plz check,BEAT_CHANGE,P3
+SCHEME NOT APPLIED ON INVOICE INV94985,SCHEME_MAIL,P4
+inventory addition request for distributor DB7101 same issue since yesterday,INVENTORY_ADD,P5
+GRN stuck for invoice INV66450 since morning urgent,GRN_STUCK,P1
+scheme mail not received for this month kindly do needful,SCHEME_MAIL,P4
+SCHEME NOT APPLIED ON INVOICE INV83499 KINDLY DO NEEDFUL,SCHEME_MAIL,P4
+"SO324 CANNOT LOGIN, OTP NOT RECEIVED PLZ CHECK",LOGIN_ISSUE,P2
+PJP NOT VISIBLE IN APP FOR USER SO332 ASAP,PJP_MAP,P1
+"grn not processing, distributor DB3317 unable to receive stock asap",GRN_STUCK,P1
+please share scheme details for DB4181 same issue since yesterday,SCHEME_MAIL,P4
+beat reassignment request for distributor DB3799 urgent,BEAT_CHANGE,P3
+"beat plan missing on map, SO599 cannot start day asap",PJP_MAP,P1
+need login created for sales officer joining B59 urgent,USER_CREATION,P2
+"user id not created yet for SO754, pending 2 days thanks",USER_CREATION,P2
+new outlet created but not showing in beat B13 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+"unable to login in app, invalid credentials error pls help",LOGIN_ISSUE,P2
+opening stock entry needed for DB4033 pls help,INVENTORY_ADD,P5
+scheme mail not received for this month plz check,SCHEME_MAIL,P4
+outlet not visible in SO472 app after creation kindly do needful,OUTLET_NOT_VISIBLE,P2
+pjp map not showing for beat B49 pls help,PJP_MAP,P1
+pjp map not showing for beat B5,PJP_MAP,P1
+GRN stuck for invoice INV13794 since morning,GRN_STUCK,P1
+"user id not created yet for SO510, pending 2 days thanks",USER_CREATION,P2
+opening stock entry needed for DB4431,INVENTORY_ADD,P5
+"goods receipt pending, stock not updating for DB1126 thanks",GRN_STUCK,P1
+opening stock entry needed for DB6296 kindly do needful,INVENTORY_ADD,P5
+outlets missing from route for distributor DB9397 urgent,OUTLET_NOT_VISIBLE,P2
+inventory addition request for distributor DB9457 plz check,INVENTORY_ADD,P5
+"grn not processing, distributor DB3527 unable to receive stock urgent",GRN_STUCK,P1
+pjp map not showing for beat B55 asap,PJP_MAP,P1
+"goods receipt pending, stock not updating for DB7484",GRN_STUCK,P1
+PJP not visible in app for user SO516 kindly do needful,PJP_MAP,P1
+login failing after app update urgent,LOGIN_ISSUE,P2
+shop not appearing in app even after sync pls help,OUTLET_NOT_VISIBLE,P2
+"grn not processing, distributor DB8612 unable to receive stock urgent",GRN_STUCK,P1
+"user id not created yet for SO415, pending 2 days plz check",USER_CREATION,P2
+change beat for outlet in B31 plz check,BEAT_CHANGE,P3
+scheme not applied on invoice INV79742 pls help,SCHEME_MAIL,P4
+beat reassignment request for distributor DB8907 urgent,BEAT_CHANGE,P3
+login failing after app update asap,LOGIN_ISSUE,P2
+new outlet created but not showing in beat B27 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+opening stock entry needed for DB9108 plz check,INVENTORY_ADD,P5
+please share scheme details for DB2435 plz check,SCHEME_MAIL,P4
+opening stock entry needed for DB2843 pls help,INVENTORY_ADD,P5
+"GRN FAILED IN DMS, INVOICE INV56077 STILL OPEN PLZ CHECK",GRN_STUCK,P1
+shop not appearing in app even after sync thanks,OUTLET_NOT_VISIBLE,P2
+"goods receipt pending, stock not updating for DB2946 pls help",GRN_STUCK,P1
+scheme not applied on invoice INV74122 kindly do needful,SCHEME_MAIL,P4
+need login created for sales officer joining B36 thanks,USER_CREATION,P2
+"goods receipt pending, stock not updating for DB2480 pls help",GRN_STUCK,P1
+please share scheme details for DB7271 same issue since yesterday,SCHEME_MAIL,P4
+"SO261 cannot login, otp not received pls help",LOGIN_ISSUE,P2
+DISCOUNT SCHEME MISSING IN APP FOR B55 KINDLY DO NEEDFUL,SCHEME_MAIL,P4
+scheme mail not received for this month urgent,SCHEME_MAIL,P4
+beat reassignment request for distributor DB3627 urgent,BEAT_CHANGE,P3
+shop not appearing in app even after sync same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+please add stock of new product in DMS urgent,INVENTORY_ADD,P5
+INVENTORY ADDITION REQUEST FOR DISTRIBUTOR DB9049 PLZ CHECK,INVENTORY_ADD,P5
+"SO943 cannot login, otp not received same issue since yesterday",LOGIN_ISSUE,P2
+new outlet created but not showing in beat B34 thanks,OUTLET_NOT_VISIBLE,P2
+DISCOUNT SCHEME MISSING IN APP FOR B25,SCHEME_MAIL,P4
+scheme not applied on invoice INV32989 asap,SCHEME_MAIL,P4
+"SO577 cannot login, otp not received pls help",LOGIN_ISSUE,P2
+change beat for outlet in B19 plz check,BEAT_CHANGE,P3
+shop not appearing in app even after sync kindly do needful,OUTLET_NOT_VISIBLE,P2
+opening stock entry needed for DB2792 plz check,INVENTORY_ADD,P5
+PJP not visible in app for user SO580 thanks,PJP_MAP,P1
+pjp mapping issue - outlets not loading on route urgent,PJP_MAP,P1
+INVENTORY ADDITION REQUEST FOR DISTRIBUTOR DB8139 KINDLY DO NEEDFUL,INVENTORY_ADD,P5
+scheme mail not received for this month,SCHEME_MAIL,P4
+new user creation request for DB3541 kindly do needful,USER_CREATION,P2
+NEED LOGIN CREATED FOR SALES OFFICER JOINING B16 THANKS,USER_CREATION,P2
+SCHEME NOT APPLIED ON INVOICE INV37637 SAME ISSUE SINCE YESTERDAY,SCHEME_MAIL,P4
+DISCOUNT SCHEME MISSING IN APP FOR B4 SAME ISSUE SINCE YESTERDAY,SCHEME_MAIL,P4
+please add stock of new product in DMS thanks,INVENTORY_ADD,P5
+outlets missing from route for distributor DB3971,OUTLET_NOT_VISIBLE,P2
+app showing session expired again and again for SO393 thanks,LOGIN_ISSUE,P2
+GRN stuck for invoice INV65872 since morning pls help,GRN_STUCK,P1
+shop not appearing in app even after sync plz check,OUTLET_NOT_VISIBLE,P2
+"beat plan missing on map, SO293 cannot start day thanks",PJP_MAP,P1
+beat reassignment request for distributor DB9745 same issue since yesterday,BEAT_CHANGE,P3
+scheme not applied on invoice INV64927 kindly do needful,SCHEME_MAIL,P4
+"goods receipt pending, stock not updating for DB5564 kindly do needful",GRN_STUCK,P1
+change beat for outlet in B1 pls help,BEAT_CHANGE,P3
+GRN stuck for invoice INV30056 since morning asap,GRN_STUCK,P1
+"grn not processing, distributor DB1797 unable to receive stock asap",GRN_STUCK,P1
+opening stock entry needed for DB6185 thanks,INVENTORY_ADD,P5
+please create user id for new SO SO572 asap,USER_CREATION,P2
+pjp mapping issue - outlets not loading on route kindly do needful,PJP_MAP,P1
+GRN stuck for invoice INV30632 since morning,GRN_STUCK,P1
+BEAT MODIFICATION REQUIRED FOR SO337 SAME ISSUE SINCE YESTERDAY,BEAT_CHANGE,P3
+"GRN failed in DMS, invoice INV88215 still open",GRN_STUCK,P1
+PLEASE ADD STOCK OF NEW PRODUCT IN DMS ASAP,INVENTORY_ADD,P5
+need login created for sales officer joining B2 plz check,USER_CREATION,P2
+change beat for outlet in B40 plz check,BEAT_CHANGE,P3
+GRN stuck for invoice INV14929 since morning,GRN_STUCK,P1
+OUTLETS MISSING FROM ROUTE FOR DISTRIBUTOR DB9691,OUTLET_NOT_VISIBLE,P2
+PJP MAP NOT SHOWING FOR BEAT B44 THANKS,PJP_MAP,P1
+PJP not visible in app for user SO146 asap,PJP_MAP,P1
+SHOP NOT APPEARING IN APP EVEN AFTER SYNC SAME ISSUE SINCE YESTERDAY,OUTLET_NOT_VISIBLE,P2
+please share scheme details for DB1060 plz check,SCHEME_MAIL,P4
+opening stock entry needed for DB1589 urgent,INVENTORY_ADD,P5
+need login created for sales officer joining B38 same issue since yesterday,USER_CREATION,P2
+outlets missing from route for distributor DB6008 urgent,OUTLET_NOT_VISIBLE,P2
+ADD NEW SKU TO INVENTORY FOR DB6959 URGENT,INVENTORY_ADD,P5
+"user id not created yet for SO797, pending 2 days urgent",USER_CREATION,P2
+outlet not visible in SO802 app after creation plz check,OUTLET_NOT_VISIBLE,P2
+outlet not visible in SO344 app after creation pls help,OUTLET_NOT_VISIBLE,P2
+discount scheme missing in app for B45 asap,SCHEME_MAIL,P4
+shop not appearing in app even after sync,OUTLET_NOT_VISIBLE,P2
+SHOP NOT APPEARING IN APP EVEN AFTER SYNC,OUTLET_NOT_VISIBLE,P2
+opening stock entry needed for DB8974 same issue since yesterday,INVENTORY_ADD,P5
+inventory addition request for distributor DB9196 asap,INVENTORY_ADD,P5
+please shift outlets from B24 to new beat,BEAT_CHANGE,P3
+new outlet created but not showing in beat B21 urgent,OUTLET_NOT_VISIBLE,P2
+scheme not applied on invoice INV63961 same issue since yesterday,SCHEME_MAIL,P4
+login failing after app update,LOGIN_ISSUE,P2
+new outlet created but not showing in beat B29 asap,OUTLET_NOT_VISIBLE,P2
+"SO904 cannot login, otp not received thanks",LOGIN_ISSUE,P2
+"SO484 cannot login, otp not received pls help",LOGIN_ISSUE,P2
+inventory addition request for distributor DB9800 pls help,INVENTORY_ADD,P5
+login failing after app update thanks,LOGIN_ISSUE,P2
+OUTLETS MISSING FROM ROUTE FOR DISTRIBUTOR DB3071 URGENT,OUTLET_NOT_VISIBLE,P2
+inventory addition request for distributor DB8200 asap,INVENTORY_ADD,P5
+"UNABLE TO LOGIN IN APP, INVALID CREDENTIALS ERROR THANKS",LOGIN_ISSUE,P2
+PJP MAP NOT SHOWING FOR BEAT B60 KINDLY DO NEEDFUL,PJP_MAP,P1
+scheme mail not received for this month urgent,SCHEME_MAIL,P4
+"unable to login in app, invalid credentials error same issue since yesterday",LOGIN_ISSUE,P2
+new outlet created but not showing in beat B21 thanks,OUTLET_NOT_VISIBLE,P2
+beat modification required for SO159 pls help,BEAT_CHANGE,P3
+beat reassignment request for distributor DB8304 same issue since yesterday,BEAT_CHANGE,P3
+discount scheme missing in app for B59 pls help,SCHEME_MAIL,P4
+GRN stuck for invoice INV37686 since morning urgent,GRN_STUCK,P1
+NEW USER CREATION REQUEST FOR DB5933 PLZ CHECK,USER_CREATION,P2
+please shift outlets from B39 to new beat thanks,BEAT_CHANGE,P3
+change beat for outlet in B44,BEAT_CHANGE,P3
+new user creation request for DB3910 same issue since yesterday,USER_CREATION,P2
+change beat for outlet in B8 plz check,BEAT_CHANGE,P3
+please add stock of new product in DMS pls help,INVENTORY_ADD,P5
+scheme mail not received for this month urgent,SCHEME_MAIL,P4
+outlets missing from route for distributor DB4994 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+shop not appearing in app even after sync plz check,OUTLET_NOT_VISIBLE,P2
+please share scheme details for DB1701 pls help,SCHEME_MAIL,P4
+outlets missing from route for distributor DB3101 thanks,OUTLET_NOT_VISIBLE,P2
+outlets missing from route for distributor DB8889 plz check,OUTLET_NOT_VISIBLE,P2
+"beat plan missing on map, SO969 cannot start day pls help",PJP_MAP,P1
+beat reassignment request for distributor DB9591 same issue since yesterday,BEAT_CHANGE,P3
+"USER ID NOT CREATED YET FOR SO439, PENDING 2 DAYS",USER_CREATION,P2
+login failing after app update same issue since yesterday,LOGIN_ISSUE,P2
+OPENING STOCK ENTRY NEEDED FOR DB5569 PLZ CHECK,INVENTORY_ADD,P5
+add new sku to inventory for DB4365 kindly do needful,INVENTORY_ADD,P5
+scheme not applied on invoice INV14337 same issue since yesterday,SCHEME_MAIL,P4
+please shift outlets from B35 to new beat thanks,BEAT_CHANGE,P3
+"GRN failed in DMS, invoice INV22026 still open kindly do needful",GRN_STUCK,P1
+pjp mapping issue - outlets not loading on route asap,PJP_MAP,P1
+please add stock of new product in DMS urgent,INVENTORY_ADD,P5
+pjp mapping issue - outlets not loading on route,PJP_MAP,P1
+scheme not applied on invoice INV15393 same issue since yesterday,SCHEME_MAIL,P4
+"GRN failed in DMS, invoice INV30308 still open pls help",GRN_STUCK,P1
+please create user id for new SO SO316,USER_CREATION,P2
+"goods receipt pending, stock not updating for DB7070 pls help",GRN_STUCK,P1
+new user creation request for DB4228 pls help,USER_CREATION,P2
+please create user id for new SO SO672 urgent,USER_CREATION,P2
+app showing session expired again and again for SO340 pls help,LOGIN_ISSUE,P2
+ADD NEW SKU TO INVENTORY FOR DB2875 URGENT,INVENTORY_ADD,P5
+shop not appearing in app even after sync thanks,OUTLET_NOT_VISIBLE,P2
+"unable to login in app, invalid credentials error urgent",LOGIN_ISSUE,P2
+"beat plan missing on map, SO905 cannot start day pls help",PJP_MAP,P1
+pjp mapping issue - outlets not loading on route asap,PJP_MAP,P1
+opening stock entry needed for DB6111 kindly do needful,INVENTORY_ADD,P5
+"SO514 CANNOT LOGIN, OTP NOT RECEIVED KINDLY DO NEEDFUL",LOGIN_ISSUE,P2
+NEED LOGIN CREATED FOR SALES OFFICER JOINING B58 SAME ISSUE SINCE YESTERDAY,USER_CREATION,P2
+"GRN FAILED IN DMS, INVOICE INV89730 STILL OPEN URGENT",GRN_STUCK,P1
+beat modification required for SO530 same issue since yesterday,BEAT_CHANGE,P3
+"grn not processing, distributor DB2234 unable to receive stock plz check",GRN_STUCK,P1
+beat reassignment request for distributor DB3733 thanks,BEAT_CHANGE,P3
+opening stock entry needed for DB5287 same issue since yesterday,INVENTORY_ADD,P5
+beat reassignment request for distributor DB7088 asap,BEAT_CHANGE,P3
+"user id not created yet for SO677, pending 2 days plz check",USER_CREATION,P2
+outlets missing from route for distributor DB3924 same issue since yesterday,OUTLET_NOT_VISIBLE,P2
+"goods receipt pending, stock not updating for DB7606",GRN_STUCK,P1
+scheme not applied on invoice INV47387 urgent,SCHEME_MAIL,P4
+"unable to login in app, invalid credentials error thanks",LOGIN_ISSUE,P2
+change beat for outlet in B16,BEAT_CHANGE,P3
+GRN stuck for invoice INV68493 since morning kindly do needful,GRN_STUCK,P1
+scheme not applied on invoice INV72886 asap,SCHEME_MAIL,P4
+"GRN failed in DMS, invoice INV50846 still open same issue since yesterday",GRN_STUCK,P1
+"goods receipt pending, stock not updating for DB4115 asap",GRN_STUCK,P1
+outlets missing from route for distributor DB5306 asap,OUTLET_NOT_VISIBLE,P2
+PLEASE CREATE USER ID FOR NEW SO SO968 PLZ CHECK,USER_CREATION,P2
+outlet not visible in SO335 app after creation pls help,OUTLET_NOT_VISIBLE,P2
+opening stock entry needed for DB9096 kindly do needful,INVENTORY_ADD,P5
+"SO158 cannot login, otp not received same issue since yesterday",LOGIN_ISSUE,P2
+please share scheme details for DB9948 same issue since yesterday,SCHEME_MAIL,P4
+scheme mail not received for this month kindly do needful,SCHEME_MAIL,P4
+add new sku to inventory for DB1326 pls help,INVENTORY_ADD,P5
+"GRN failed in DMS, invoice INV15952 still open kindly do needful",GRN_STUCK,P1
+pjp mapping issue - outlets not loading on route plz check,PJP_MAP,P1
+please shift outlets from B52 to new beat thanks,BEAT_CHANGE,P3
+APP SHOWING SESSION EXPIRED AGAIN AND AGAIN FOR SO416,LOGIN_ISSUE,P2
+inventory addition request for distributor DB8178 kindly do needful,INVENTORY_ADD,P5
+pjp map not showing for beat B23,PJP_MAP,P1
+please shift outlets from B50 to new beat pls help,BEAT_CHANGE,P3
+login failing after app update urgent,LOGIN_ISSUE,P2
+beat modification required for SO140 asap,BEAT_CHANGE,P3
+"GOODS RECEIPT PENDING, STOCK NOT UPDATING FOR DB2337 KINDLY DO NEEDFUL",GRN_STUCK,P1
+PJP not visible in app for user SO680 plz check,PJP_MAP,P1
+need login created for sales officer joining B9,USER_CREATION,P2
+new outlet created but not showing in beat B8 pls help,OUTLET_NOT_VISIBLE,P2
+need login created for sales officer joining B24 asap,USER_CREATION,P2
+"GRN failed in DMS, invoice INV98647 still open thanks",GRN_STUCK,P1
+beat reassignment request for distributor DB8496 thanks,BEAT_CHANGE,P3
+pjp mapping issue - outlets not loading on route urgent,PJP_MAP,P1
+outlet not visible in SO167 app after creation kindly do needful,OUTLET_NOT_VISIBLE,P2
+opening stock entry needed for DB5180 kindly do needful,INVENTORY_ADD,P5
+beat modification required for SO678 pls help,BEAT_CHANGE,P3
+"unable to login in app, invalid credentials error asap",LOGIN_ISSUE,P2
+add new sku to inventory for DB2911 urgent,INVENTORY_ADD,P5
+outlets missing from route for distributor DB9464,OUTLET_NOT_VISIBLE,P2
+PLEASE SHARE SCHEME DETAILS FOR DB8175 URGENT,SCHEME_MAIL,P4
+"goods receipt pending, stock not updating for DB8048 pls help",GRN_STUCK,P1
+scheme not applied on invoice INV22541 same issue since yesterday,SCHEME_MAIL,P4
+shop not appearing in app even after sync thanks,OUTLET_NOT_VISIBLE,P2
+"SO233 CANNOT LOGIN, OTP NOT RECEIVED SAME ISSUE SINCE YESTERDAY",LOGIN_ISSUE,P2
+OPENING STOCK ENTRY NEEDED FOR DB6779 SAME ISSUE SINCE YESTERDAY,INVENTORY_ADD,P5
+app showing session expired again and again for SO253 thanks,LOGIN_ISSUE,P2
+beat reassignment request for distributor DB8239,BEAT_CHANGE,P3
+new outlet created but not showing in beat B6 kindly do needful,OUTLET_NOT_VISIBLE,P2
+"goods receipt pending, stock not updating for DB6772 same issue since yesterday",GRN_STUCK,P1
+pjp map not showing for beat B56 kindly do needful,PJP_MAP,P1
+"SO495 cannot login, otp not received plz check",LOGIN_ISSUE,P2
+"GRN failed in DMS, invoice INV78903 still open thanks",GRN_STUCK,P1
+discount scheme missing in app for B49 kindly do needful,SCHEME_MAIL,P4
+"user id not created yet for SO290, pending 2 days asap",USER_CREATION,P2
+beat modification required for SO614,BEAT_CHANGE,P3
+"user id not created yet for SO230, pending 2 days",USER_CREATION,P2
+change beat for outlet in B17 same issue since yesterday,BEAT_CHANGE,P3
+"beat plan missing on map, SO786 cannot start day same issue since yesterday",PJP_MAP,P1
+beat modification required for SO953 plz check,BEAT_CHANGE,P3
+opening stock entry needed for DB8397 urgent,INVENTORY_ADD,P5
+pjp mapping issue - outlets not loading on route,PJP_MAP,P1
+"user id not created yet for SO263, pending 2 days asap",USER_CREATION,P2
+"unable to login in app, invalid credentials error",LOGIN_ISSUE,P2
+pjp mapping issue - outlets not loading on route asap,PJP_MAP,P1
+scheme mail not received for this month urgent,SCHEME_MAIL,P4
+please add stock of new product in DMS plz check,INVENTORY_ADD,P5
+inventory addition request for distributor DB5361 plz check,INVENTORY_ADD,P5
+beat modification required for SO867 pls help,BEAT_CHANGE,P3
+inventory addition request for distributor DB8576 asap,INVENTORY_ADD,P5

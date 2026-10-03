@@ -26,3 +26,7 @@ def test_ready_reports_no_model_yet(client):
 
 def test_unknown_route_404s(client):
     assert client.get("/nope").status_code == 404
+
+def test_ready_reports_model_state(client):
+    body = client.get("/ready").json()
+    assert isinstance(body["model_loaded"], bool)    
