@@ -8,5 +8,5 @@ class Settings(BaseSettings):
     environment:str="development"
     model_path:str="models/classifier.joblib"
     confidence_threshold:float=0.60
-
+    database_url: str = "sqlite:///data/tickets.db"      # <-- add this
 settings=Settings()
