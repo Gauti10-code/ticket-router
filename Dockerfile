@@ -21,7 +21,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app/ ./app/
 COPY scripts/ ./scripts/
 COPY data/tickets.csv ./data/tickets.csv
-COPY models/classifier.joblib ./models/classifier.joblib
+RUN python scripts/train.py
 
 # ---- runtime --------------------------------------------------------------
 # Run as a non-root user. If the app is ever compromised, the attacker
